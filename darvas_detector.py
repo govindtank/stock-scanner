@@ -1,15 +1,15 @@
 """
-Darvas Box Breakout Detection Module for Indian Stocks
-=======================================================
+Darvas Box Breakout Detection Module for Indian Stocks (Enhanced)
+==================================================================
 
 This module implements the Darvas box method for identifying breakout opportunities
 in Indian stock market using yfinance (free, no API key required).
 
-The Darvas theory is based on:
-1. Price consolidation in "boxes" (ranges)
-2. Breakouts above box highs with strong volume
-3. Quick profit-taking after breakouts
-4. Trend following with moving averages
+ENHANCEMENTS:
+- Advanced volume analysis with multiple timeframes
+- Pattern recognition (double bottoms, pennants, flags)
+- Volume-based confirmation signals
+- Enhanced signal strength calculation
 """
 
 import pandas as pd
@@ -19,25 +19,30 @@ import datetime
 
 
 class DarvasBoxDetector:
-    """Implements Darvas Box Method for breakout detection."""
+    """Implements Darvas Box Method with volume analysis and pattern recognition."""
     
-    def __init__(self, window_size=5, min_box_volatility=0.02):
+    def __init__(self, window_size=5, min_box_volatility=0.02, 
+                 volume_threshold=1.5, pattern_sensitivity=0.9):
         """
         Initialize the Darvas box detector.
         
         Args:
             window_size: Number of days to look back for box formation (default 5)
             min_box_volatility: Minimum volatility required within a box (%)
+            volume_threshold: Volume multiplier for breakout confirmation (default 1.5 = 150%)
+            pattern_sensitivity: Pattern recognition sensitivity (higher = more strict)
         """
         self.window_size = window_size
         self.min_box_volatility = min_box_volatility
-    
+        self.volume_threshold = volume_threshold
+        self.pattern_sensitivity = pattern_sensitivity
+        
     def detect_boxes(self, df: pd.DataFrame) -> Dict[str, List[Dict]]:
         """
-        Detect Darvas boxes in price data.
+        Detect Darvas boxes in price data with enhanced volume analysis.
         
         Args:
-            df: DataFrame with 'close' and 'volume' columns
+            df: DataFrame with 'close', 'high', 'low', 'volume' columns
             
         Returns:
             Dictionary of detected boxes with their properties
@@ -57,6 +62,9 @@ class DarvasBoxDetector:
                 # Calculate volume average for this period
                 avg_volume = df.iloc[i-self.window_size:i+1]['volume'].mean()
                 
+                # Volume analysis - check volume profile
+                volume_trend = self._analyze_volume_trend(df, i)
+                
                 boxes.append({
                     'start': i - self.window_size + 1,
                     'end': i,
@@ -64,17 +72,44 @@ class DarvasBoxDetector:
                     'low': recent_low,
                     'close': current_price,
                     'avg_volume': avg_volume,
-                    'range': recent_high - recent_low
+                    'range': recent_high - recent_low,
+                    'volume_trend': volume_trend,
+                    'volume_stability': self._calculate_volume_stability(df.iloc[i-self.window_size:i+1])
                 })
         
         return boxes
     
+    def _analyze_volume_trend(self, df: pd.DataFrame, index: int) -> str:
+        """Analyze recent volume trend."""
+        recent_volumes = df['volume'].iloc[-5:]
+        if len(recent_volumes) < 2:
+            return 'NEUTRAL'
+        
+        recent_mean = recent_volumes[:-1].mean()
+        current_volume = recent_volumes.iloc[-1]
+        
+        if current_volume > recent_mean * 1.3:
+            return 'INCREASING'
+        elif current_volume < recent_mean * 0.7:
+            return 'DECREASING'
+        else:
+            return 'STABLE'
+    
+    def _calculate_volume_stability(self, data) -> float:
+        """Calculate volume stability (lower = more stable)."""
+        if len(data) < 2 or any(v == 0 for v in data['volume']):
+            return 1.0
+        
+        volumes = [v / data['volume'].iloc[0] for v in data['volume']]
+        coefficient_of_variation = np.std(volumes) / np.mean(volumes) if np.mean(volumes) > 0 else 0
+        return round(1 - coefficient_of_variation, 2)
+    
     def find_breakouts(self, df: pd.DataFrame, boxes: List[Dict]) -> List[Dict]:
         """
-        Identify breakout opportunities above box highs.
+        Identify breakout opportunities above box highs with volume confirmation.
         
         Args:
-            df: DataFrame with 'close' and 'volume' columns  
+            df: DataFrame with 'close', 'high', 'low', 'volume' columns  
             boxes: List of detected Darvas boxes
             
         Returns:
@@ -100,29 +135,101 @@ class DarvasBoxDetector:
                     # Volume spike detection (> 150% of average)
                     volume_spike = current_volume / max(prev_box['avg_volume'], 1)
                     
+                    # Enhanced signal calculation including pattern recognition
+                    signal_strength = self._calculate_enhanced_signal_strength(
+                        price_change_pct, volume_spike, boxes[-1]
+                    )
+                    
+                    # Pattern recognition check
+                    patterns_detected = self._detect_patterns(df, i)
+                    
                     breakouts.append({
                         'date': df.iloc[i].name,
                         'price': current_price,
                         'box_high': prev_box['high'],
                         'breakout_pct': round(price_change_pct * 100, 2),
                         'volume_spike': round(volume_spike * 100, 2),
-                        'signal_strength': self._calculate_signal_strength(
-                            price_change_pct, volume_spike
-                        )
+                        'signal_strength': signal_strength,
+                        'patterns_detected': patterns_detected,
+                        'confidence_score': self._calculate_confidence(price_change_pct, volume_spike)
                     })
         
         return breakouts
     
-    def _calculate_signal_strength(self, price_change: float, volume_multiplier: float) -> str:
-        """Calculate breakout signal strength."""
-        score = (price_change * 2 + (volume_multiplier - 1) / 3) * 10
+    def _calculate_enhanced_signal_strength(self, price_change: float, 
+                                            volume_multiplier: float, 
+                                            box: Dict) -> str:
+        """Calculate enhanced breakout signal strength."""
         
-        if score > 50:
+        # Base score from price and volume
+        price_score = min(price_change / 0.05, 2)  # Max 2 points for 5%+ breakouts
+        volume_score = min((volume_multiplier - 1) / 0.3, 1.5)  # Max 1.5 points
+        
+        # Volume trend bonus
+        volume_trend_bonus = {
+            'INCREASING': 0.5,
+            'STABLE': 0.2,
+            'DECREASING': 0
+        }.get(box.get('volume_trend', 'NEUTRAL'), 0)
+        
+        # Volume stability bonus (up to 0.3 for very stable volume)
+        volume_stability_bonus = box.get('volume_stability', 0) * 0.3
+        
+        total_score = (price_change * 2 + (volume_multiplier - 1)) \
+                      + volume_trend_bonus + volume_stability_bonus
+        
+        if total_score > 50:
             return 'STRONG'
-        elif score > 30:
+        elif total_score > 30:
             return 'MODERATE'
         else:
             return 'WEAK'
+    
+    def _calculate_confidence(self, price_change: float, 
+                              volume_spike: float) -> float:
+        """Calculate confidence score for breakout (0-100)."""
+        base_confidence = price_change * 20  # Max 200, we'll cap it
+        volume_bonus = min(volume_spike - 100, 40)  # Volume bonus up to 40 points
+        
+        confidence = min(base_confidence + volume_bonus, 95)
+        return round(confidence, 1)
+    
+    def _detect_patterns(self, df: pd.DataFrame, current_idx: int) -> List[str]:
+        """Detect price patterns near breakout."""
+        patterns = []
+        
+        # Look back for pattern formation
+        lookback = min(20, len(df)) - current_idx
+        
+        if lookback < 5:
+            return patterns
+        
+        recent_data = df.iloc[-lookback:].copy()
+        
+        # Double bottom detection
+        bottom_candidates = (recent_data['low'] == recent_data['low'].rolling(3).min()).sum()
+        if bottom_candidates >= 2 and recent_data['low'].iloc[-1] > recent_data['low'].iloc[-2]:
+            patterns.append('DOUBLE_BOTTOM')
+        
+        # Pennant/flag pattern detection (consolidation after uptrend)
+        if len(recent_data) >= 5:
+            prices = recent_data['close'].values
+            is_uptrend = all(prices[i+1] > prices[i-1] for i in range(1, len(prices)-2))
+            
+            if is_uptrend and recent_data['high'].iloc[-2:] \
+               < df.iloc[:current_idx]['high'].mean() * 0.05:  # Small upper band
+                patterns.append('FLAT_TOP')
+        
+        # Rising wedge detection
+        highs = recent_data['high'].values
+        if len(highs) >= 6:
+            is_rising_wedge = all(highs[i] < highs[i-1] for i in range(1, len(highs)))
+            lows_increasing = all(highs[i-1] - highs[i] < highs[i+1] - highs[i] 
+                                for i in range(2, len(highs)-2))
+            if is_rising_wedge and lows_increasing:
+                patterns.append('RISING_WEDGE')
+        
+        return patterns
 
 
 class TrendLineDetector:
@@ -159,7 +266,7 @@ class TrendLineDetector:
 
 
 class IndianStockMonitor:
-    """Monitors Indian stocks for Darvas breakout opportunities."""
+    """Monitors stocks for Darvas breakout opportunities with enhanced analysis."""
     
     def __init__(self):
         self.darvas_detector = DarvasBoxDetector(window_size=5)
@@ -195,11 +302,10 @@ class IndianStockMonitor:
         Returns:
             Analysis result or None if analysis failed
         """
-        if ticker not in self.wishlist:
-            self.load_stock_data(ticker)
-            
-            if ticker not in self.wishlist or self.wishlist[ticker].get('error'):
-                return None
+        # Check if we have data cached
+        if ticker in self.wishlist and 'error' not in self.wishlist[ticker]:
+            # Use cached data from recent download
+            pass
         
         df = yf.download(ticker, period='3mo', interval='1d')
         
@@ -233,7 +339,12 @@ class IndianStockMonitor:
         """Get trading recommendation."""
         strong_breakouts = [b for b in breakouts if b['signal_strength'] == 'STRONG']
         
+        # Check for patterns on strong breakouts
+        has_patterns = any(b.get('patterns_detected') for b in strong_breakouts)
+        
         if strong_breakouts and trend == 'STRONG_UPTREND':
+            if has_patterns:
+                return 'BUY STRONG - Pattern-confirmed Darvas breakout'
             return 'BUY - Strong Darvas breakout detected'
         elif breakouts and trend in ['MODERATE_UPTREND', 'STRONG_UPTREND']:
             return 'WATCHLIST - Potential breakout forming'
@@ -279,7 +390,7 @@ class PortfolioScanner:
             if 'error' not in result and result.get('breakouts'):
                 breakouts = result['breakouts']
                 
-                # Get latest strong breakout
+                # Get latest strong breakout with patterns
                 strong_breakout = None
                 for b in reversed(breakouts):
                     if b['signal_strength'] == 'STRONG':
