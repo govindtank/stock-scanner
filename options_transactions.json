@@ -1,0 +1,152 @@
+[
+  {
+    "timestamp": "2026-06-11T09:15:34.997538",
+    "type": "TRADE_ENTER",
+    "setup": {
+      "index": "NIFTY",
+      "expiry": "2026-06-18",
+      "dte": 7,
+      "short_strike": 25300,
+      "long_strike": 25200,
+      "spot_price": 25682.4,
+      "credit_received": 1026.87,
+      "max_loss": 3973.13,
+      "max_profit_pct": 25.8,
+      "probability_of_profit": 77.5,
+      "delta_short": -0.225,
+      "vix": 15.869999885559082,
+      "score": 90.3
+    },
+    "spot": 25682.4,
+    "vix": 15.869999885559082
+  },
+  {
+    "timestamp": "2026-06-11T12:02:52.787968",
+    "type": "TRADE_ENTER",
+    "setup": {
+      "index": "NIFTY",
+      "expiry": "2026-06-18",
+      "dte": 7,
+      "short_strike": 25300,
+      "long_strike": 25200,
+      "spot_price": 25682.4,
+      "credit_received": 1001.09,
+      "max_loss": 3998.91,
+      "max_profit_pct": 25.0,
+      "probability_of_profit": 78.0,
+      "delta_short": -0.22,
+      "vix": 15.532500267028809,
+      "score": 90.6
+    },
+    "spot": 25682.4,
+    "vix": 15.532500267028809
+  },
+  {
+    "timestamp": "2026-06-12T12:02:57.598643",
+    "type": "TRADE_ENTER",
+    "setup": {
+      "index": "NIFTY",
+      "expiry": "2026-06-18",
+      "dte": 6,
+      "short_strike": 25400,
+      "long_strike": 25300,
+      "spot_price": 25682.4,
+      "credit_received": 1155.49,
+      "max_loss": 3844.51,
+      "max_profit_pct": 30.1,
+      "probability_of_profit": 74.3,
+      "delta_short": -0.257,
+      "vix": 14.84000015258789,
+      "score": 85.4
+    },
+    "spot": 25682.4,
+    "vix": 14.84000015258789
+  },
+  {
+    "timestamp": "2026-06-15T12:05:37.663603",
+    "type": "TRADE_EXIT",
+    "position_id": "SPRD-20260611091534-NIF",
+    "pnl": 597.5741309738428,
+    "exit_reason": "PROFIT_TARGET: \u20b9+598 (\u2265\u20b9+513)",
+    "spot_at_exit": 25682.4
+  },
+  {
+    "timestamp": "2026-06-15T12:05:37.707056",
+    "type": "TRADE_EXIT",
+    "position_id": "SPRD-20260611120252-NIF",
+    "pnl": 571.7941309738429,
+    "exit_reason": "PROFIT_TARGET: \u20b9+572 (\u2265\u20b9+501)",
+    "spot_at_exit": 25682.4
+  },
+  {
+    "timestamp": "2026-06-15T15:35:05.766780",
+    "type": "TRADE_ENTER",
+    "setup": {
+      "index": "NIFTY",
+      "expiry": "2026-06-25",
+      "dte": 10,
+      "short_strike": 25300,
+      "long_strike": 25200,
+      "spot_price": 25682.4,
+      "credit_received": 1082.41,
+      "max_loss": 3917.59,
+      "max_profit_pct": 27.6,
+      "probability_of_profit": 76.5,
+      "delta_short": -0.235,
+      "vix": 14.352499961853027,
+      "score": 85.8
+    },
+    "spot": 25682.4,
+    "vix": 14.352499961853027
+  },
+  {
+    "timestamp": "2026-06-16T12:05:23.414862",
+    "type": "TRADE_EXIT",
+    "position_id": "SPRD-20260612120257-NIF",
+    "pnl": 686.9213744174797,
+    "exit_reason": "PROFIT_TARGET: \u20b9+687 (\u2265\u20b9+578)",
+    "spot_at_exit": 25682.4
+  },
+  {
+    "timestamp": "2026-06-16T12:05:23.416082",
+    "type": "TRADE_ENTER",
+    "setup": {
+      "index": "FINNIFTY",
+      "expiry": "2026-06-23",
+      "dte": 7,
+      "short_strike": 25400,
+      "long_strike": 25350,
+      "spot_price": 25682.4,
+      "credit_received": 482.96,
+      "max_loss": 1517.04,
+      "max_profit_pct": 31.8,
+      "probability_of_profit": 74.8,
+      "delta_short": -0.252,
+      "vix": 13.607500076293945,
+      "score": 90.6
+    },
+    "spot": 25682.4,
+    "vix": 13.607500076293945
+  },
+  {
+    "timestamp": "2026-06-16T15:35:09.994090",
+    "type": "TRADE_ENTER",
+    "setup": {
+      "index": "FINNIFTY",
+      "expiry": "2026-06-23",
+      "dte": 7,
+      "short_strike": 25400,
+      "long_strike": 25350,
+      "spot_price": 25682.4,
+      "credit_received": 474.79,
+      "max_loss": 1525.21,
+      "max_profit_pct": 31.1,
+      "probability_of_profit": 75.2,
+      "delta_short": -0.248,
+      "vix": 13.362500190734863,
+      "score": 90.9
+    },
+    "spot": 25682.4,
+    "vix": 13.362500190734863
+  }
+]

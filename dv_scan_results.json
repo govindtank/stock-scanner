@@ -1,0 +1,618 @@
+{
+  "timestamp": "2026-06-19T00:02:17.862663",
+  "dv_bull": [],
+  "dv_bear": [
+    {
+      "ticker": "WIPRO.NS",
+      "price": NaN,
+      "best_archetype": "MEAN_REVERSION_SNAPBACK",
+      "best_score": 75,
+      "all_scores": {
+        "BREAKOUT_MOMENTUM": {
+          "score": 10,
+          "evidence": [
+            "4 historical Darvas breakouts in 6M \u2014 pattern reliable"
+          ]
+        },
+        "MEAN_REVERSION_SNAPBACK": {
+          "score": 75,
+          "evidence": [
+            "RSI 28 \u2014 oversold territory",
+            "RSI rising from oversold \u2014 momentum shift",
+            "Volume normalizing \u2014 selling exhaustion",
+            "Inside/near box bottom \u2014 potential reversal point"
+          ]
+        },
+        "GAP_AND_GO": {
+          "score": 0,
+          "evidence": []
+        },
+        "DIRECTIONAL_VOLATILITY_BULL": {
+          "score": 15,
+          "evidence": [
+            "4 Darvas breakouts in 6M \u2014 pattern reliability"
+          ]
+        },
+        "DIRECTIONAL_VOLATILITY_BEAR": {
+          "score": 73,
+          "evidence": [
+            "Only 27% days above SMA20 \u2014 deep downtrend",
+            "RSI 28 \u2014 oversold",
+            "RSI rising from oversold \u2014 momentum shift",
+            "Volume normalizing after sell-off \u2014 exhaustion signal",
+            "4 historical breakouts \u2014 stock has momentum potential"
+          ]
+        }
+      },
+      "breakouts_6m": 4,
+      "recent_breakout": false,
+      "current_breakout": false,
+      "rsi": 28.3,
+      "rsi_trend": "rising",
+      "sma_trend": "BEARISH",
+      "vol_ratio": 0.5,
+      "daily_vol": 1.85,
+      "ret_1m": NaN,
+      "ret_3m": NaN,
+      "drawdown": NaN,
+      "gap_pct": NaN,
+      "vol_spike_today": false,
+      "pct_above_sma20": 26.9,
+      "near_52wh_pct": NaN,
+      "vol_trend_5_20": 0.35,
+      "dv_score": 15,
+      "dv_bear_score": 73
+    },
+    {
+      "ticker": "HINDZINC.NS",
+      "price": NaN,
+      "best_archetype": "MEAN_REVERSION_SNAPBACK",
+      "best_score": 85,
+      "all_scores": {
+        "BREAKOUT_MOMENTUM": {
+          "score": 20,
+          "evidence": [
+            "Volatility 2.7% \u2014 enough to run",
+            "8 historical Darvas breakouts in 6M \u2014 pattern reliable"
+          ]
+        },
+        "MEAN_REVERSION_SNAPBACK": {
+          "score": 85,
+          "evidence": [
+            "RSI 27 \u2014 oversold territory",
+            "RSI rising from oversold \u2014 momentum shift",
+            "Volatility 2.7% \u2014 snapback potential",
+            "Volume normalizing \u2014 selling exhaustion",
+            "Inside/near box bottom \u2014 potential reversal point"
+          ]
+        },
+        "GAP_AND_GO": {
+          "score": 0,
+          "evidence": []
+        },
+        "DIRECTIONAL_VOLATILITY_BULL": {
+          "score": 40,
+          "evidence": [
+            "Daily \u03c3 2.7% \u2014 top-decile volatility",
+            "8 Darvas breakouts in 6M \u2014 pattern reliability"
+          ]
+        },
+        "DIRECTIONAL_VOLATILITY_BEAR": {
+          "score": 60,
+          "evidence": [
+            "Daily \u03c3 2.7% \u2014 high volatility confirms movement potential",
+            "RSI 27 \u2014 oversold",
+            "RSI rising from oversold \u2014 momentum shift",
+            "8 historical breakouts \u2014 stock has momentum potential"
+          ]
+        }
+      },
+      "breakouts_6m": 8,
+      "recent_breakout": false,
+      "current_breakout": false,
+      "rsi": 26.9,
+      "rsi_trend": "rising",
+      "sma_trend": "BEARISH",
+      "vol_ratio": 0.9,
+      "daily_vol": 2.74,
+      "ret_1m": NaN,
+      "ret_3m": NaN,
+      "drawdown": NaN,
+      "gap_pct": NaN,
+      "vol_spike_today": false,
+      "pct_above_sma20": 47.1,
+      "near_52wh_pct": NaN,
+      "vol_trend_5_20": 0.86,
+      "dv_score": 40,
+      "dv_bear_score": 60
+    },
+    {
+      "ticker": "IREDA.NS",
+      "price": NaN,
+      "best_archetype": "DIRECTIONAL_VOLATILITY_BEAR",
+      "best_score": 56,
+      "all_scores": {
+        "BREAKOUT_MOMENTUM": {
+          "score": 20,
+          "evidence": [
+            "Volatility 2.3% \u2014 enough to run",
+            "3 historical Darvas breakouts in 6M \u2014 pattern reliable"
+          ]
+        },
+        "MEAN_REVERSION_SNAPBACK": {
+          "score": 45,
+          "evidence": [
+            "RSI rising from oversold \u2014 momentum shift",
+            "Volume normalizing \u2014 selling exhaustion",
+            "Inside/near box bottom \u2014 potential reversal point"
+          ]
+        },
+        "GAP_AND_GO": {
+          "score": 0,
+          "evidence": []
+        },
+        "DIRECTIONAL_VOLATILITY_BULL": {
+          "score": 24,
+          "evidence": [
+            "Daily \u03c3 2.3% \u2014 above average volatility",
+            "3 Darvas breakouts in 6M \u2014 pattern reliability"
+          ]
+        },
+        "DIRECTIONAL_VOLATILITY_BEAR": {
+          "score": 56,
+          "evidence": [
+            "Only 28% days above SMA20 \u2014 deep downtrend",
+            "RSI rising from oversold \u2014 momentum shift",
+            "Volume normalizing after sell-off \u2014 exhaustion signal",
+            "3 historical breakouts \u2014 stock has momentum potential"
+          ]
+        }
+      },
+      "breakouts_6m": 3,
+      "recent_breakout": false,
+      "current_breakout": false,
+      "rsi": 38.3,
+      "rsi_trend": "rising",
+      "sma_trend": "BEARISH",
+      "vol_ratio": 0.8,
+      "daily_vol": 2.27,
+      "ret_1m": NaN,
+      "ret_3m": NaN,
+      "drawdown": NaN,
+      "gap_pct": NaN,
+      "vol_spike_today": false,
+      "pct_above_sma20": 27.9,
+      "near_52wh_pct": NaN,
+      "vol_trend_5_20": 0.66,
+      "dv_score": 24,
+      "dv_bear_score": 56
+    },
+    {
+      "ticker": "ZENSARTECH.NS",
+      "price": NaN,
+      "best_archetype": "DIRECTIONAL_VOLATILITY_BEAR",
+      "best_score": 52,
+      "all_scores": {
+        "BREAKOUT_MOMENTUM": {
+          "score": 10,
+          "evidence": [
+            "Volatility 2.1% \u2014 enough to run"
+          ]
+        },
+        "MEAN_REVERSION_SNAPBACK": {
+          "score": 45,
+          "evidence": [
+            "RSI rising from oversold \u2014 momentum shift",
+            "Volume normalizing \u2014 selling exhaustion",
+            "Inside/near box bottom \u2014 potential reversal point"
+          ]
+        },
+        "GAP_AND_GO": {
+          "score": 0,
+          "evidence": []
+        },
+        "DIRECTIONAL_VOLATILITY_BULL": {
+          "score": 18,
+          "evidence": [
+            "Daily \u03c3 2.1% \u2014 above average volatility",
+            "1 Darvas breakouts in 6M \u2014 pattern reliability"
+          ]
+        },
+        "DIRECTIONAL_VOLATILITY_BEAR": {
+          "score": 52,
+          "evidence": [
+            "Only 17% days above SMA20 \u2014 deep downtrend",
+            "RSI rising from oversold \u2014 momentum shift",
+            "Volume normalizing after sell-off \u2014 exhaustion signal",
+            "1 historical breakouts \u2014 stock has momentum potential"
+          ]
+        }
+      },
+      "breakouts_6m": 1,
+      "recent_breakout": false,
+      "current_breakout": false,
+      "rsi": 38.1,
+      "rsi_trend": "rising",
+      "sma_trend": "BEARISH",
+      "vol_ratio": 0.4,
+      "daily_vol": 2.11,
+      "ret_1m": NaN,
+      "ret_3m": NaN,
+      "drawdown": NaN,
+      "gap_pct": NaN,
+      "vol_spike_today": false,
+      "pct_above_sma20": 17.3,
+      "near_52wh_pct": NaN,
+      "vol_trend_5_20": 0.74,
+      "dv_score": 18,
+      "dv_bear_score": 52
+    },
+    {
+      "ticker": "RVNL.NS",
+      "price": NaN,
+      "best_archetype": "DIRECTIONAL_VOLATILITY_BEAR",
+      "best_score": 51,
+      "all_scores": {
+        "BREAKOUT_MOMENTUM": {
+          "score": 20,
+          "evidence": [
+            "Volatility 2.7% \u2014 enough to run",
+            "3 historical Darvas breakouts in 6M \u2014 pattern reliable"
+          ]
+        },
+        "MEAN_REVERSION_SNAPBACK": {
+          "score": 30,
+          "evidence": [
+            "Volatility 2.7% \u2014 snapback potential",
+            "Volume normalizing \u2014 selling exhaustion",
+            "Inside/near box bottom \u2014 potential reversal point"
+          ]
+        },
+        "GAP_AND_GO": {
+          "score": 0,
+          "evidence": []
+        },
+        "DIRECTIONAL_VOLATILITY_BULL": {
+          "score": 49,
+          "evidence": [
+            "Daily \u03c3 2.7% \u2014 top-decile volatility",
+            "Volume sustaining above average (1.4x)",
+            "3 Darvas breakouts in 6M \u2014 pattern reliability"
+          ]
+        },
+        "DIRECTIONAL_VOLATILITY_BEAR": {
+          "score": 51,
+          "evidence": [
+            "Daily \u03c3 2.7% \u2014 high volatility confirms movement potential",
+            "Only 29% days above SMA20 \u2014 deep downtrend",
+            "3 historical breakouts \u2014 stock has momentum potential"
+          ]
+        }
+      },
+      "breakouts_6m": 3,
+      "recent_breakout": false,
+      "current_breakout": false,
+      "rsi": 49.7,
+      "rsi_trend": "rising",
+      "sma_trend": "BEARISH",
+      "vol_ratio": 1.4,
+      "daily_vol": 2.7,
+      "ret_1m": NaN,
+      "ret_3m": NaN,
+      "drawdown": NaN,
+      "gap_pct": NaN,
+      "vol_spike_today": false,
+      "pct_above_sma20": 28.8,
+      "near_52wh_pct": NaN,
+      "vol_trend_5_20": 0.66,
+      "dv_score": 49,
+      "dv_bear_score": 51
+    },
+    {
+      "ticker": "LTTS.NS",
+      "price": NaN,
+      "best_archetype": "DIRECTIONAL_VOLATILITY_BEAR",
+      "best_score": 47,
+      "all_scores": {
+        "BREAKOUT_MOMENTUM": {
+          "score": 10,
+          "evidence": [
+            "Volatility 2.6% \u2014 enough to run"
+          ]
+        },
+        "MEAN_REVERSION_SNAPBACK": {
+          "score": 30,
+          "evidence": [
+            "Volatility 2.6% \u2014 snapback potential",
+            "Volume normalizing \u2014 selling exhaustion",
+            "Inside/near box bottom \u2014 potential reversal point"
+          ]
+        },
+        "GAP_AND_GO": {
+          "score": 15,
+          "evidence": [
+            "RSI 51 \u2014 room to run"
+          ]
+        },
+        "DIRECTIONAL_VOLATILITY_BULL": {
+          "score": 33,
+          "evidence": [
+            "Daily \u03c3 2.6% \u2014 top-decile volatility",
+            "1 Darvas breakouts in 6M \u2014 pattern reliability"
+          ]
+        },
+        "DIRECTIONAL_VOLATILITY_BEAR": {
+          "score": 47,
+          "evidence": [
+            "Daily \u03c3 2.6% \u2014 high volatility confirms movement potential",
+            "Volume normalizing after sell-off \u2014 exhaustion signal",
+            "1 historical breakouts \u2014 stock has momentum potential"
+          ]
+        }
+      },
+      "breakouts_6m": 1,
+      "recent_breakout": false,
+      "current_breakout": false,
+      "rsi": 51.0,
+      "rsi_trend": "rising",
+      "sma_trend": "BEARISH",
+      "vol_ratio": 0.4,
+      "daily_vol": 2.63,
+      "ret_1m": NaN,
+      "ret_3m": NaN,
+      "drawdown": NaN,
+      "gap_pct": NaN,
+      "vol_spike_today": false,
+      "pct_above_sma20": 32.7,
+      "near_52wh_pct": NaN,
+      "vol_trend_5_20": 0.44,
+      "dv_score": 33,
+      "dv_bear_score": 47
+    },
+    {
+      "ticker": "MUTHOOTFIN.NS",
+      "price": NaN,
+      "best_archetype": "DIRECTIONAL_VOLATILITY_BEAR",
+      "best_score": 47,
+      "all_scores": {
+        "BREAKOUT_MOMENTUM": {
+          "score": 10,
+          "evidence": [
+            "Volatility 2.6% \u2014 enough to run"
+          ]
+        },
+        "MEAN_REVERSION_SNAPBACK": {
+          "score": 30,
+          "evidence": [
+            "Volatility 2.6% \u2014 snapback potential",
+            "Volume normalizing \u2014 selling exhaustion",
+            "Inside/near box bottom \u2014 potential reversal point"
+          ]
+        },
+        "GAP_AND_GO": {
+          "score": 0,
+          "evidence": []
+        },
+        "DIRECTIONAL_VOLATILITY_BULL": {
+          "score": 33,
+          "evidence": [
+            "Daily \u03c3 2.6% \u2014 top-decile volatility",
+            "1 Darvas breakouts in 6M \u2014 pattern reliability"
+          ]
+        },
+        "DIRECTIONAL_VOLATILITY_BEAR": {
+          "score": 47,
+          "evidence": [
+            "Daily \u03c3 2.6% \u2014 high volatility confirms movement potential",
+            "Volume normalizing after sell-off \u2014 exhaustion signal",
+            "1 historical breakouts \u2014 stock has momentum potential"
+          ]
+        }
+      },
+      "breakouts_6m": 1,
+      "recent_breakout": false,
+      "current_breakout": false,
+      "rsi": 40.9,
+      "rsi_trend": "rising",
+      "sma_trend": "BEARISH",
+      "vol_ratio": 1.1,
+      "daily_vol": 2.64,
+      "ret_1m": NaN,
+      "ret_3m": NaN,
+      "drawdown": NaN,
+      "gap_pct": NaN,
+      "vol_spike_today": false,
+      "pct_above_sma20": 33.7,
+      "near_52wh_pct": NaN,
+      "vol_trend_5_20": 0.93,
+      "dv_score": 33,
+      "dv_bear_score": 47
+    },
+    {
+      "ticker": "NATIONALUM.NS",
+      "price": NaN,
+      "best_archetype": "MEAN_REVERSION_SNAPBACK",
+      "best_score": 60,
+      "all_scores": {
+        "BREAKOUT_MOMENTUM": {
+          "score": 20,
+          "evidence": [
+            "Volatility 2.9% \u2014 enough to run",
+            "5 historical Darvas breakouts in 6M \u2014 pattern reliable"
+          ]
+        },
+        "MEAN_REVERSION_SNAPBACK": {
+          "score": 60,
+          "evidence": [
+            "RSI 27 \u2014 oversold territory",
+            "Volatility 2.9% \u2014 snapback potential",
+            "Volume normalizing \u2014 selling exhaustion",
+            "Inside/near box bottom \u2014 potential reversal point"
+          ]
+        },
+        "GAP_AND_GO": {
+          "score": 0,
+          "evidence": []
+        },
+        "DIRECTIONAL_VOLATILITY_BULL": {
+          "score": 40,
+          "evidence": [
+            "Daily \u03c3 2.9% \u2014 top-decile volatility",
+            "5 Darvas breakouts in 6M \u2014 pattern reliability"
+          ]
+        },
+        "DIRECTIONAL_VOLATILITY_BEAR": {
+          "score": 45,
+          "evidence": [
+            "Daily \u03c3 2.9% \u2014 high volatility confirms movement potential",
+            "RSI 27 \u2014 oversold",
+            "5 historical breakouts \u2014 stock has momentum potential"
+          ]
+        }
+      },
+      "breakouts_6m": 5,
+      "recent_breakout": false,
+      "current_breakout": false,
+      "rsi": 27.5,
+      "rsi_trend": "falling",
+      "sma_trend": "BEARISH",
+      "vol_ratio": 0.5,
+      "daily_vol": 2.9,
+      "ret_1m": NaN,
+      "ret_3m": NaN,
+      "drawdown": NaN,
+      "gap_pct": NaN,
+      "vol_spike_today": false,
+      "pct_above_sma20": 54.8,
+      "near_52wh_pct": NaN,
+      "vol_trend_5_20": 0.74,
+      "dv_score": 40,
+      "dv_bear_score": 45
+    },
+    {
+      "ticker": "BHEL.NS",
+      "price": NaN,
+      "best_archetype": "MEAN_REVERSION_SNAPBACK",
+      "best_score": 55,
+      "all_scores": {
+        "BREAKOUT_MOMENTUM": {
+          "score": 20,
+          "evidence": [
+            "Volatility 2.6% \u2014 enough to run",
+            "6 historical Darvas breakouts in 6M \u2014 pattern reliable"
+          ]
+        },
+        "MEAN_REVERSION_SNAPBACK": {
+          "score": 55,
+          "evidence": [
+            "RSI rising from oversold \u2014 momentum shift",
+            "Volatility 2.6% \u2014 snapback potential",
+            "Volume normalizing \u2014 selling exhaustion",
+            "Inside/near box bottom \u2014 potential reversal point"
+          ]
+        },
+        "GAP_AND_GO": {
+          "score": 0,
+          "evidence": []
+        },
+        "DIRECTIONAL_VOLATILITY_BULL": {
+          "score": 50,
+          "evidence": [
+            "Daily \u03c3 2.6% \u2014 top-decile volatility",
+            "Volume sustaining above average (1.4x)",
+            "6 Darvas breakouts in 6M \u2014 pattern reliability"
+          ]
+        },
+        "DIRECTIONAL_VOLATILITY_BEAR": {
+          "score": 45,
+          "evidence": [
+            "Daily \u03c3 2.6% \u2014 high volatility confirms movement potential",
+            "RSI rising from oversold \u2014 momentum shift",
+            "6 historical breakouts \u2014 stock has momentum potential"
+          ]
+        }
+      },
+      "breakouts_6m": 6,
+      "recent_breakout": false,
+      "current_breakout": false,
+      "rsi": 37.8,
+      "rsi_trend": "rising",
+      "sma_trend": "BEARISH",
+      "vol_ratio": 1.4,
+      "daily_vol": 2.58,
+      "ret_1m": NaN,
+      "ret_3m": NaN,
+      "drawdown": NaN,
+      "gap_pct": NaN,
+      "vol_spike_today": false,
+      "pct_above_sma20": 51.0,
+      "near_52wh_pct": NaN,
+      "vol_trend_5_20": 0.83,
+      "dv_score": 50,
+      "dv_bear_score": 45
+    },
+    {
+      "ticker": "JPASSOCIAT.NS",
+      "price": 2.4200000762939453,
+      "best_archetype": "DIRECTIONAL_VOLATILITY_BEAR",
+      "best_score": 42,
+      "all_scores": {
+        "BREAKOUT_MOMENTUM": {
+          "score": 10,
+          "evidence": [
+            "Volatility 2.2% \u2014 enough to run"
+          ]
+        },
+        "MEAN_REVERSION_SNAPBACK": {
+          "score": 25,
+          "evidence": [
+            "Drawdown -39% \u2014 deep pullback",
+            "Inside/near box bottom \u2014 potential reversal point"
+          ]
+        },
+        "GAP_AND_GO": {
+          "score": 0,
+          "evidence": []
+        },
+        "DIRECTIONAL_VOLATILITY_BULL": {
+          "score": 13,
+          "evidence": [
+            "Daily \u03c3 2.2% \u2014 above average volatility",
+            "1 Darvas breakouts in 6M \u2014 pattern reliability"
+          ]
+        },
+        "DIRECTIONAL_VOLATILITY_BEAR": {
+          "score": 42,
+          "evidence": [
+            "Only 11% days above SMA20 \u2014 deep downtrend",
+            "Drawdown -39% \u2014 deep pullback",
+            "1 historical breakouts \u2014 stock has momentum potential"
+          ]
+        }
+      },
+      "breakouts_6m": 1,
+      "recent_breakout": false,
+      "current_breakout": false,
+      "rsi": NaN,
+      "rsi_trend": "falling",
+      "sma_trend": "BEARISH",
+      "vol_ratio": NaN,
+      "daily_vol": 2.22,
+      "ret_1m": 0.0,
+      "ret_3m": -4.7,
+      "drawdown": -39.3,
+      "gap_pct": 0.0,
+      "vol_spike_today": false,
+      "pct_above_sma20": 10.7,
+      "near_52wh_pct": 60.7,
+      "vol_trend_5_20": 0.0,
+      "dv_score": 13,
+      "dv_bear_score": 42
+    }
+  ],
+  "dv_accel": [],
+  "total_scanned": 109,
+  "dv_bull_count": 0,
+  "dv_bear_count": 31,
+  "dv_accel_count": 0
+}

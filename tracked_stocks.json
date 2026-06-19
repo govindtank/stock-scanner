@@ -1,0 +1,129 @@
+{
+  "type": "WATCHLIST",
+  "description": "Stocks the user wants to track with live prices and AI analysis",
+  "last_updated": "2026-06-19T12:05:22.272091",
+  "stocks": [
+    {
+      "ticker": "TARIL.NS",
+      "name": "TARIL",
+      "added": "2026-06-18"
+    },
+    {
+      "ticker": "INDSWFTLAB.NS",
+      "name": "Ind-Swift Labs",
+      "added": "2026-06-18"
+    },
+    {
+      "ticker": "JSWINFRA.NS",
+      "name": "JSW Infrastructure",
+      "added": "2026-06-18"
+    },
+    {
+      "ticker": "PIRAMALFIN.NS",
+      "name": "Piramal Finance",
+      "added": "2026-06-18"
+    },
+    {
+      "ticker": "AVANTIFEED.NS",
+      "name": "Avanti Feeds",
+      "added": "2026-06-18"
+    },
+    {
+      "ticker": "MANINDS.NS",
+      "name": "Man Industries",
+      "added": "2026-06-18"
+    },
+    {
+      "ticker": "NITINSPIN.NS",
+      "name": "Nitin Spinners",
+      "added": "2026-06-18"
+    },
+    {
+      "ticker": "GRANULES.NS",
+      "name": "Granules India",
+      "added": "2026-06-18"
+    },
+    {
+      "ticker": "EDELWEISS.NS",
+      "name": "Edelweiss Financial",
+      "added": "2026-06-18"
+    },
+    {
+      "ticker": "NIITLTD.NS",
+      "name": "NIIT",
+      "added": "2026-06-18"
+    },
+    {
+      "ticker": "RELIANCE.NS",
+      "name": "Reliance Industries",
+      "added": "2026-06-18"
+    },
+    {
+      "ticker": "CGCL.NS",
+      "name": "CGC",
+      "added": "2026-06-18"
+    }
+  ],
+  "prices": {
+    "TARIL.NS": {
+      "price": 324.85,
+      "daily_change_pct": -0.32,
+      "updated_at": "2026-06-18T19:19:04"
+    },
+    "INDSWFTLAB.NS": {
+      "price": 168.68,
+      "daily_change_pct": 3.82,
+      "updated_at": "2026-06-18T19:19:04"
+    },
+    "JSWINFRA.NS": {
+      "price": 307.95,
+      "daily_change_pct": 3.2,
+      "updated_at": "2026-06-18T19:19:05"
+    },
+    "PIRAMALFIN.NS": {
+      "price": 1998.4,
+      "daily_change_pct": -0.74,
+      "updated_at": "2026-06-18T19:19:05"
+    },
+    "AVANTIFEED.NS": {
+      "price": 980.9,
+      "daily_change_pct": -0.27,
+      "updated_at": "2026-06-18T19:19:05"
+    },
+    "MANINDS.NS": {
+      "price": 588.5,
+      "daily_change_pct": -0.69,
+      "updated_at": "2026-06-18T19:19:05"
+    },
+    "NITINSPIN.NS": {
+      "price": 561.0,
+      "daily_change_pct": 2.45,
+      "updated_at": "2026-06-18T19:19:06"
+    },
+    "GRANULES.NS": {
+      "price": 782.1,
+      "daily_change_pct": 5.49,
+      "updated_at": "2026-06-18T19:47:28.078841"
+    },
+    "EDELWEISS.NS": {
+      "price": 121.34,
+      "daily_change_pct": 0.76,
+      "updated_at": "2026-06-18T19:47:28.078841"
+    },
+    "NIITLTD.NS": {
+      "price": 97.87,
+      "daily_change_pct": -5.44,
+      "updated_at": "2026-06-18T19:19:10"
+    },
+    "RELIANCE.NS": {
+      "price": 1328.1,
+      "daily_change_pct": -0.35,
+      "updated_at": "2026-06-18T19:19:10"
+    },
+    "CGCL.NS": {
+      "price": 220.81,
+      "daily_change_pct": 1.62,
+      "updated_at": "2026-06-18T19:19:11"
+    }
+  }
+}

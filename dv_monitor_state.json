@@ -1,0 +1,2003 @@
+{
+  "entries": {
+    "ATHERENERG.NS": {
+      "last_price": 995.25,
+      "last_dv_score": 85,
+      "last_seen": "2026-06-17T15:19:28.316334",
+      "last_recommendation": "ENTRY"
+    },
+    "ADANIGREEN.NS": {
+      "last_price": 1464.0,
+      "last_dv_score": 75,
+      "last_seen": "2026-06-17T15:19:28.316378",
+      "last_recommendation": "ENTRY"
+    },
+    "ANGELONE.NS": {
+      "last_price": 348.5,
+      "last_dv_score": 85,
+      "last_seen": "2026-06-17T15:19:28.316352",
+      "last_recommendation": "ENTRY"
+    },
+    "BANDHANBNK.NS": {
+      "last_price": 213.77000427246094,
+      "last_dv_score": 85,
+      "last_seen": "2026-06-17T15:19:28.316361",
+      "last_recommendation": "ENTRY"
+    },
+    "NEPHROPLUS.NS": {
+      "last_price": 734.9500122070312,
+      "last_dv_score": 74,
+      "last_seen": "2026-06-17T15:19:28.316402",
+      "last_recommendation": "HOLD"
+    },
+    "APOLLOHOSP.NS": {
+      "last_price": 8497.5,
+      "last_dv_score": 60,
+      "last_seen": "2026-06-12T14:36:15.002971",
+      "last_recommendation": "HOLD"
+    },
+    "RBLBANK.NS": {
+      "last_price": 369.0,
+      "last_dv_score": 75,
+      "last_seen": "2026-06-17T15:19:28.316383",
+      "last_recommendation": "HOLD"
+    },
+    "IDEA.NS": {
+      "last_price": 14.9399995803833,
+      "last_dv_score": 75,
+      "last_seen": "2026-06-17T15:19:28.316397",
+      "last_recommendation": "ENTRY"
+    },
+    "SONACOMS.NS": {
+      "last_price": 585.0999755859375,
+      "last_dv_score": 70,
+      "last_seen": "2026-06-11T15:40:11.941068",
+      "last_recommendation": "HOLD"
+    },
+    "GLAND.NS": {
+      "last_price": 2200.0,
+      "last_dv_score": 75,
+      "last_seen": "2026-06-17T15:19:28.316389",
+      "last_recommendation": "HOLD"
+    },
+    "CENTRUM.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 83,
+      "last_seen": "2026-06-16T00:02:10.172627",
+      "last_recommendation": "WAIT"
+    },
+    "RVNL.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 51,
+      "last_seen": "2026-06-19T00:02:17.864022",
+      "last_recommendation": "WAIT"
+    },
+    "MUTHOOTFIN.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 47,
+      "last_seen": "2026-06-19T00:02:17.864028",
+      "last_recommendation": "WAIT"
+    },
+    "BRITANNIA.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 52,
+      "last_seen": "2026-06-17T00:02:17.978049",
+      "last_recommendation": "WAIT"
+    },
+    "ITC.NS": {
+      "last_price": 284.1499938964844,
+      "last_dv_bear_score": 72,
+      "last_seen": "2026-06-12T13:06:16.024767",
+      "last_recommendation": "HOLD"
+    },
+    "HINDZINC.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 60,
+      "last_seen": "2026-06-19T00:02:17.864014",
+      "last_recommendation": "WAIT"
+    },
+    "M&M.NS": {
+      "last_price": 2952.5,
+      "last_dv_bear_score": 64,
+      "last_seen": "2026-06-11T09:02:07.715973",
+      "last_recommendation": "HOLD"
+    },
+    "PVRINOX.NS": {
+      "last_price": 940.5499877929688,
+      "last_dv_bear_score": 69,
+      "last_seen": "2026-06-12T13:31:36.748344",
+      "last_recommendation": "WAIT"
+    },
+    "VEDL.NS": {
+      "last_price": 306.6000061035156,
+      "last_dv_bear_score": 56,
+      "last_seen": "2026-06-17T15:19:28.316442",
+      "last_recommendation": "HOLD"
+    },
+    "WIPRO.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 73,
+      "last_seen": "2026-06-19T00:02:17.864007",
+      "last_recommendation": "WAIT"
+    },
+    "ABB.NS": {
+      "last_price": 6873.5,
+      "last_dv_score": 70,
+      "last_seen": "2026-06-10T13:02:24.798412",
+      "last_recommendation": "HOLD"
+    },
+    "FORTIS.NS": {
+      "last_price": 990.3499755859375,
+      "last_dv_score": 65,
+      "last_seen": "2026-06-15T00:06:41.150372",
+      "last_recommendation": "HOLD"
+    },
+    "ADANIPORTS.NS": {
+      "last_price": 1816.0,
+      "last_dv_score": 60,
+      "last_seen": "2026-06-11T12:36:31.246899",
+      "last_recommendation": "HOLD"
+    },
+    "POLYCAB.NS": {
+      "last_price": 9928.5,
+      "last_dv_score": 80,
+      "last_seen": "2026-06-17T15:19:28.316369",
+      "last_recommendation": "ENTRY"
+    },
+    "ELECTCAST.NS": {
+      "last_price": 72.47000122070312,
+      "last_dv_bear_score": 55,
+      "last_seen": "2026-06-10T12:01:58.773192",
+      "last_recommendation": "HOLD"
+    },
+    "EDELWEISS.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 45,
+      "last_seen": "2026-06-18T00:02:16.619335",
+      "last_recommendation": "EXIT"
+    },
+    "TRENT.NS": {
+      "last_price": 2771.300048828125,
+      "last_dv_bear_score": 45,
+      "last_seen": "2026-06-09T21:46:37.666243",
+      "last_recommendation": "WAIT"
+    },
+    "COFORGE.NS": {
+      "last_price": 1412.0,
+      "last_dv_bear_score": 38,
+      "last_seen": "2026-06-09T21:46:37.666247",
+      "last_recommendation": "WAIT"
+    },
+    "IIFL.NS": {
+      "last_price": 508.04998779296875,
+      "last_dv_bear_score": 34,
+      "last_seen": "2026-06-09T21:46:37.666252",
+      "last_recommendation": "WAIT"
+    },
+    "NATIONALUM.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 45,
+      "last_seen": "2026-06-19T00:02:17.864030",
+      "last_recommendation": "WAIT"
+    },
+    "RELIANCE.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 50,
+      "last_seen": "2026-06-17T00:02:17.978054",
+      "last_recommendation": "WAIT"
+    },
+    "JUBLFOOD.NS": {
+      "last_price": 416.95001220703125,
+      "last_dv_bear_score": 72,
+      "last_seen": "2026-06-12T14:36:15.003018",
+      "last_recommendation": "HOLD"
+    },
+    "DALBHARAT.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 46,
+      "last_seen": "2026-06-18T00:02:16.619311",
+      "last_recommendation": "WAIT"
+    },
+    "JSWSTEEL.NS": {
+      "last_price": 1277.4000244140625,
+      "last_dv_score": 70,
+      "last_seen": "2026-06-10T14:36:31.995459",
+      "last_recommendation": "HOLD"
+    },
+    "IRFC.NS": {
+      "last_price": 95.88999938964844,
+      "last_dv_bear_score": 67,
+      "last_seen": "2026-06-15T00:06:41.150425",
+      "last_recommendation": "HOLD"
+    },
+    "IREDA.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 56,
+      "last_seen": "2026-06-19T00:02:17.864017",
+      "last_recommendation": "WAIT"
+    },
+    "HAL.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 48,
+      "last_seen": "2026-06-17T00:02:17.978060",
+      "last_recommendation": "WAIT"
+    },
+    "BHARTIARTL.NS": {
+      "last_price": 1782.5999755859375,
+      "last_dv_bear_score": 67,
+      "last_seen": "2026-06-11T15:40:11.941105",
+      "last_recommendation": "WAIT"
+    },
+    "ZENSARTECH.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 52,
+      "last_seen": "2026-06-19T00:02:17.864020",
+      "last_recommendation": "WAIT"
+    },
+    "TORNTPHARM.NS": {
+      "last_price": 4573.5,
+      "last_dv_score": 60,
+      "last_seen": "2026-06-11T14:38:16.900019",
+      "last_recommendation": "HOLD"
+    },
+    "HAVELLS.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 52,
+      "last_seen": "2026-06-16T00:02:10.172702",
+      "last_recommendation": "WAIT"
+    },
+    "IEX.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 57,
+      "last_seen": "2026-06-16T00:02:10.172671",
+      "last_recommendation": "WAIT"
+    },
+    "TCS.NS": {
+      "last_price": 2223.10009765625,
+      "last_dv_bear_score": 52,
+      "last_seen": "2026-06-17T15:19:28.316457",
+      "last_recommendation": "WAIT"
+    },
+    "LTTS.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 47,
+      "last_seen": "2026-06-19T00:02:17.864025",
+      "last_recommendation": "WAIT"
+    },
+    "CENTUM.NS": {
+      "last_price": 3610.39990234375,
+      "last_dv_score": 85,
+      "last_seen": "2026-06-17T15:19:28.316343",
+      "last_recommendation": "HOLD"
+    },
+    "BHEL.NS": {
+      "last_price": NaN,
+      "last_dv_bear_score": 45,
+      "last_seen": "2026-06-19T00:02:17.864033",
+      "last_recommendation": "WAIT"
+    },
+    "JPASSOCIAT.NS": {
+      "last_price": 2.4200000762939453,
+      "last_dv_bear_score": 42,
+      "last_seen": "2026-06-19T00:02:17.864036",
+      "last_recommendation": "WAIT"
+    }
+  },
+  "positions": {},
+  "alert_history": [
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 337.54998779296875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "50%+ gain in 30 days (profit book)"
+      ],
+      "daily_vol": 3.0,
+      "rsi": 58.3,
+      "near_52wh": 97.4,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-09T21:30:51.945579"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.140000343322754,
+      "dv_score": 70,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "50%+ gain in 30 days (profit book)"
+      ],
+      "daily_vol": 2.98,
+      "rsi": 60.6,
+      "near_52wh": 94.6,
+      "pct_above_sma20": 57.7,
+      "timestamp": "2026-06-09T21:30:51.945608"
+    },
+    {
+      "ticker": "GLAND.NS",
+      "archetype": "DV-BULL",
+      "price": 2288.5,
+      "dv_score": 70,
+      "recommendation": "EXIT",
+      "entry_signals": [
+        "Pullback to 20d SMA"
+      ],
+      "exit_signals": [
+        "Volume drying up",
+        "50%+ gain in 30 days (profit book)"
+      ],
+      "daily_vol": 2.33,
+      "rsi": 57.6,
+      "near_52wh": 98.1,
+      "pct_above_sma20": 70.9,
+      "timestamp": "2026-06-09T21:30:51.945621"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 337.54998779296875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.0,
+      "rsi": 58.3,
+      "near_52wh": 97.4,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-09T21:42:54.152090"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 337.54998779296875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.0,
+      "rsi": 58.3,
+      "near_52wh": 97.4,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-09T21:46:13.794202"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 337.54998779296875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.0,
+      "rsi": 58.3,
+      "near_52wh": 97.4,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-10T09:02:03.641279"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.140000343322754,
+      "dv_score": 70,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.98,
+      "rsi": 60.6,
+      "near_52wh": 94.6,
+      "pct_above_sma20": 57.7,
+      "timestamp": "2026-06-10T09:02:03.641327"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 334.70001220703125,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 3.0,
+      "rsi": 46.1,
+      "near_52wh": 96.6,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-10T09:31:57.292025"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 334.45001220703125,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 3.0,
+      "rsi": 45.9,
+      "near_52wh": 96.5,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-10T10:06:37.851126"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 334.8500061035156,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 3.0,
+      "rsi": 46.2,
+      "near_52wh": 96.7,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-10T10:32:31.275623"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 334.8999938964844,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 3.0,
+      "rsi": 46.3,
+      "near_52wh": 96.7,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-10T11:07:20.214619"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 334.79998779296875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 3.0,
+      "rsi": 46.2,
+      "near_52wh": 96.6,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-10T11:37:06.261929"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 333.79998779296875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 3.0,
+      "rsi": 45.5,
+      "near_52wh": 96.3,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-10T12:01:58.773075"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 334.6000061035156,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.0,
+      "rsi": 46.0,
+      "near_52wh": 96.6,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-10T12:36:34.819157"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 335.0,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.0,
+      "rsi": 46.3,
+      "near_52wh": 96.7,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-10T13:02:24.798378"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 335.5,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.0,
+      "rsi": 46.7,
+      "near_52wh": 96.8,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-10T13:37:01.674091"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 335.0,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.0,
+      "rsi": 46.3,
+      "near_52wh": 96.7,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-10T14:01:56.910462"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 13.819999694824219,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.99,
+      "rsi": 53.4,
+      "near_52wh": 92.4,
+      "pct_above_sma20": 57.7,
+      "timestamp": "2026-06-10T14:36:31.995415"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 334.04998779296875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.0,
+      "rsi": 45.6,
+      "near_52wh": 96.4,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-10T14:36:31.995425"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 201.63999938964844,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.59,
+      "rsi": 64.9,
+      "near_52wh": 96.5,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-10T14:36:31.995433"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 13.8100004196167,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.99,
+      "rsi": 53.2,
+      "near_52wh": 92.4,
+      "pct_above_sma20": 57.7,
+      "timestamp": "2026-06-10T15:02:19.367689"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 200.1999969482422,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.59,
+      "rsi": 62.4,
+      "near_52wh": 95.8,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-10T15:02:19.367709"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1486.0,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 64.7,
+      "near_52wh": 96.8,
+      "pct_above_sma20": 63.5,
+      "timestamp": "2026-06-10T15:32:07.607820"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 13.869999885559082,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.99,
+      "rsi": 54.4,
+      "near_52wh": 92.8,
+      "pct_above_sma20": 57.7,
+      "timestamp": "2026-06-10T15:32:07.607834"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 199.75999450683594,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.6,
+      "rsi": 61.6,
+      "near_52wh": 95.6,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-10T15:32:07.607848"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1483.0,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 64.3,
+      "near_52wh": 96.6,
+      "pct_above_sma20": 63.5,
+      "timestamp": "2026-06-11T09:02:07.715874"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 13.880000114440918,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.99,
+      "rsi": 54.5,
+      "near_52wh": 92.8,
+      "pct_above_sma20": 57.7,
+      "timestamp": "2026-06-11T09:02:07.715884"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 199.75999450683594,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.6,
+      "rsi": 61.6,
+      "near_52wh": 95.6,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-11T09:02:07.715899"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1489.199951171875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.04,
+      "rsi": 64.5,
+      "near_52wh": 97.0,
+      "pct_above_sma20": 64.4,
+      "timestamp": "2026-06-11T09:32:19.833836"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 198.66000366210938,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.59,
+      "rsi": 55.8,
+      "near_52wh": 95.1,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-11T09:32:19.833856"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1485.0,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.04,
+      "rsi": 64.1,
+      "near_52wh": 96.8,
+      "pct_above_sma20": 64.4,
+      "timestamp": "2026-06-11T10:02:10.538518"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 200.39999389648438,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.59,
+      "rsi": 58.4,
+      "near_52wh": 95.9,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-11T10:02:10.538544"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1486.0999755859375,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.04,
+      "rsi": 64.2,
+      "near_52wh": 96.8,
+      "pct_above_sma20": 64.4,
+      "timestamp": "2026-06-11T10:36:51.606047"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 334.25,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.99,
+      "rsi": 46.5,
+      "near_52wh": 96.5,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-11T10:36:51.606058"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 200.25,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.59,
+      "rsi": 58.2,
+      "near_52wh": 95.9,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-11T10:36:51.606067"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1470.5,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.04,
+      "rsi": 62.2,
+      "near_52wh": 95.8,
+      "pct_above_sma20": 64.4,
+      "timestamp": "2026-06-11T11:01:44.949235"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 196.25,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.59,
+      "rsi": 52.2,
+      "near_52wh": 94.0,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-11T11:01:44.949255"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.369999885559082,
+      "dv_score": 60,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.97,
+      "rsi": 59.9,
+      "near_52wh": 96.1,
+      "pct_above_sma20": 58.7,
+      "timestamp": "2026-06-11T11:01:44.949307"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1482.0,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.04,
+      "rsi": 63.8,
+      "near_52wh": 96.6,
+      "pct_above_sma20": 64.4,
+      "timestamp": "2026-06-11T11:32:38.716508"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 197.10000610351562,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.59,
+      "rsi": 53.4,
+      "near_52wh": 94.4,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-11T11:32:38.716527"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1471.5999755859375,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.04,
+      "rsi": 62.3,
+      "near_52wh": 95.9,
+      "pct_above_sma20": 64.4,
+      "timestamp": "2026-06-11T12:02:33.319654"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 196.91000366210938,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.59,
+      "rsi": 53.1,
+      "near_52wh": 94.3,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-11T12:02:33.319672"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1466.199951171875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 61.6,
+      "near_52wh": 95.5,
+      "pct_above_sma20": 64.4,
+      "timestamp": "2026-06-11T12:36:31.246850"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 196.02999877929688,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.59,
+      "rsi": 51.9,
+      "near_52wh": 93.8,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-11T12:36:31.246869"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1460.699951171875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 60.8,
+      "near_52wh": 95.2,
+      "pct_above_sma20": 64.4,
+      "timestamp": "2026-06-11T13:32:02.855183"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 194.66000366210938,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.6,
+      "rsi": 50.1,
+      "near_52wh": 93.2,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-11T13:32:02.855199"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1456.699951171875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 60.3,
+      "near_52wh": 94.9,
+      "pct_above_sma20": 64.4,
+      "timestamp": "2026-06-11T14:01:58.074704"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 194.88999938964844,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.6,
+      "rsi": 50.4,
+      "near_52wh": 93.3,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-11T14:01:58.074723"
+    },
+    {
+      "ticker": "GLAND.NS",
+      "archetype": "DV-BULL",
+      "price": 2320.60009765625,
+      "dv_score": 80,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "Volume spike + near 52WH"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.33,
+      "rsi": 48.3,
+      "near_52wh": 99.4,
+      "pct_above_sma20": 70.9,
+      "timestamp": "2026-06-11T14:38:16.899956"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1468.4000244140625,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 61.9,
+      "near_52wh": 95.7,
+      "pct_above_sma20": 64.4,
+      "timestamp": "2026-06-11T14:38:16.899968"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 194.60000610351562,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.6,
+      "rsi": 50.0,
+      "near_52wh": 93.2,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-11T14:38:16.899984"
+    },
+    {
+      "ticker": "GLAND.NS",
+      "archetype": "DV-BULL",
+      "price": 2306.5,
+      "dv_score": 80,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "Volume spike + near 52WH"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.33,
+      "rsi": 46.5,
+      "near_52wh": 98.8,
+      "pct_above_sma20": 70.9,
+      "timestamp": "2026-06-11T15:40:11.941017"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1454.5,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 60.0,
+      "near_52wh": 94.8,
+      "pct_above_sma20": 64.4,
+      "timestamp": "2026-06-11T15:40:11.941027"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.170000076293945,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.96,
+      "rsi": 57.2,
+      "near_52wh": 94.8,
+      "pct_above_sma20": 58.7,
+      "timestamp": "2026-06-11T15:40:11.941035"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 193.89999389648438,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.6,
+      "rsi": 49.1,
+      "near_52wh": 92.8,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-11T15:40:11.941050"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1461.699951171875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 56.0,
+      "near_52wh": 95.3,
+      "pct_above_sma20": 65.4,
+      "timestamp": "2026-06-12T12:35:10.764422"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 196.5,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.59,
+      "rsi": 49.4,
+      "near_52wh": 94.1,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-12T12:35:10.764442"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.960000038146973,
+      "dv_score": 60,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.99,
+      "rsi": 63.1,
+      "near_52wh": 100.0,
+      "pct_above_sma20": 59.6,
+      "timestamp": "2026-06-12T12:35:10.764477"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1461.699951171875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 56.0,
+      "near_52wh": 95.3,
+      "pct_above_sma20": 65.4,
+      "timestamp": "2026-06-12T12:37:56.388932"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 196.3000030517578,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.59,
+      "rsi": 49.2,
+      "near_52wh": 94.0,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-12T12:37:56.388952"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.930000305175781,
+      "dv_score": 60,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.98,
+      "rsi": 62.8,
+      "near_52wh": 99.9,
+      "pct_above_sma20": 59.6,
+      "timestamp": "2026-06-12T12:37:56.388991"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1459.800048828125,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 55.8,
+      "near_52wh": 95.1,
+      "pct_above_sma20": 65.4,
+      "timestamp": "2026-06-12T13:06:16.024641"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 195.92999267578125,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.59,
+      "rsi": 48.7,
+      "near_52wh": 93.8,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-12T13:06:16.024661"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.9399995803833,
+      "dv_score": 60,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.99,
+      "rsi": 62.9,
+      "near_52wh": 99.9,
+      "pct_above_sma20": 59.6,
+      "timestamp": "2026-06-12T13:06:16.024690"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1471.5,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 57.0,
+      "near_52wh": 95.9,
+      "pct_above_sma20": 65.4,
+      "timestamp": "2026-06-12T13:31:36.748234"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 197.10000610351562,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.59,
+      "rsi": 50.2,
+      "near_52wh": 94.4,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-12T13:31:36.748253"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.930000305175781,
+      "dv_score": 60,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.98,
+      "rsi": 62.8,
+      "near_52wh": 99.9,
+      "pct_above_sma20": 59.6,
+      "timestamp": "2026-06-12T13:31:36.748279"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1479.800048828125,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 57.9,
+      "near_52wh": 96.4,
+      "pct_above_sma20": 65.4,
+      "timestamp": "2026-06-12T14:06:31.627089"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 199.41000366210938,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.6,
+      "rsi": 52.9,
+      "near_52wh": 95.5,
+      "pct_above_sma20": 67.3,
+      "timestamp": "2026-06-12T14:06:31.627107"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.9399995803833,
+      "dv_score": 60,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.99,
+      "rsi": 62.9,
+      "near_52wh": 99.9,
+      "pct_above_sma20": 59.6,
+      "timestamp": "2026-06-12T14:06:31.627139"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1481.0,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 58.0,
+      "near_52wh": 96.5,
+      "pct_above_sma20": 65.4,
+      "timestamp": "2026-06-12T14:36:15.002909"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 338.8500061035156,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 3.02,
+      "rsi": 45.4,
+      "near_52wh": 97.8,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-12T14:36:15.002921"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 202.66000366210938,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.62,
+      "rsi": 56.2,
+      "near_52wh": 97.0,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-12T14:36:15.002931"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 15.050000190734863,
+      "dv_score": 70,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.0,
+      "rsi": 64.0,
+      "near_52wh": 100.0,
+      "pct_above_sma20": 59.6,
+      "timestamp": "2026-06-12T14:36:15.002948"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1487.4000244140625,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 58.6,
+      "near_52wh": 96.9,
+      "pct_above_sma20": 65.4,
+      "timestamp": "2026-06-12T15:06:04.109783"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.920000076293945,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.98,
+      "rsi": 62.6,
+      "near_52wh": 99.8,
+      "pct_above_sma20": 59.6,
+      "timestamp": "2026-06-12T15:06:04.109798"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 339.75,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 3.02,
+      "rsi": 46.0,
+      "near_52wh": 98.1,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-12T15:06:04.109812"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 205.1999969482422,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.64,
+      "rsi": 58.5,
+      "near_52wh": 98.2,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-12T15:06:04.109825"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1485.699951171875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 58.4,
+      "near_52wh": 96.8,
+      "pct_above_sma20": 65.4,
+      "timestamp": "2026-06-12T15:35:49.296748"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.899999618530273,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.98,
+      "rsi": 62.4,
+      "near_52wh": 99.7,
+      "pct_above_sma20": 59.6,
+      "timestamp": "2026-06-12T15:35:49.296759"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 339.5,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 3.02,
+      "rsi": 45.8,
+      "near_52wh": 98.0,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-12T15:35:49.296769"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 204.60000610351562,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.63,
+      "rsi": 58.0,
+      "near_52wh": 98.0,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-12T15:35:49.296777"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1485.699951171875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 58.4,
+      "near_52wh": 96.8,
+      "pct_above_sma20": 65.4,
+      "timestamp": "2026-06-12T20:20:18.121972"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.899999618530273,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.98,
+      "rsi": 62.4,
+      "near_52wh": 99.7,
+      "pct_above_sma20": 59.6,
+      "timestamp": "2026-06-12T20:20:18.121981"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 339.5,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 3.02,
+      "rsi": 45.8,
+      "near_52wh": 98.0,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-12T20:20:18.121990"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 204.60000610351562,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.63,
+      "rsi": 58.0,
+      "near_52wh": 98.0,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-12T20:20:18.121999"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1485.699951171875,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.05,
+      "rsi": 58.4,
+      "near_52wh": 96.8,
+      "pct_above_sma20": 65.4,
+      "timestamp": "2026-06-15T00:06:41.150322"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.899999618530273,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.98,
+      "rsi": 62.4,
+      "near_52wh": 99.7,
+      "pct_above_sma20": 59.6,
+      "timestamp": "2026-06-15T00:06:41.150333"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 339.5,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 3.02,
+      "rsi": 45.8,
+      "near_52wh": 98.0,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-15T00:06:41.150342"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 204.60000610351562,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.63,
+      "rsi": 58.0,
+      "near_52wh": 98.0,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-15T00:06:41.150352"
+    },
+    {
+      "ticker": "ATHERENERG.NS",
+      "archetype": "DV-BULL",
+      "price": 995.25,
+      "dv_score": 85,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 2.84,
+      "rsi": 56.2,
+      "near_52wh": 95.5,
+      "pct_above_sma20": 74.0,
+      "timestamp": "2026-06-17T15:19:28.316322"
+    },
+    {
+      "ticker": "ANGELONE.NS",
+      "archetype": "DV-BULL",
+      "price": 348.5,
+      "dv_score": 85,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 3.03,
+      "rsi": 56.4,
+      "near_52wh": 98.9,
+      "pct_above_sma20": 70.2,
+      "timestamp": "2026-06-17T15:19:28.316349"
+    },
+    {
+      "ticker": "BANDHANBNK.NS",
+      "archetype": "DV-BULL",
+      "price": 213.77000427246094,
+      "dv_score": 85,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.65,
+      "rsi": 57.3,
+      "near_52wh": 98.6,
+      "pct_above_sma20": 71.2,
+      "timestamp": "2026-06-17T15:19:28.316358"
+    },
+    {
+      "ticker": "POLYCAB.NS",
+      "archetype": "DV-BULL",
+      "price": 9928.5,
+      "dv_score": 80,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "Volume spike + near 52WH"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.18,
+      "rsi": 58.4,
+      "near_52wh": 100.0,
+      "pct_above_sma20": 70.2,
+      "timestamp": "2026-06-17T15:19:28.316367"
+    },
+    {
+      "ticker": "ADANIGREEN.NS",
+      "archetype": "DV-BULL",
+      "price": 1464.0,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [
+        "Volume drying up"
+      ],
+      "daily_vol": 3.05,
+      "rsi": 46.6,
+      "near_52wh": 95.4,
+      "pct_above_sma20": 68.3,
+      "timestamp": "2026-06-17T15:19:28.316375"
+    },
+    {
+      "ticker": "IDEA.NS",
+      "archetype": "DV-BULL",
+      "price": 14.9399995803833,
+      "dv_score": 75,
+      "recommendation": "ENTRY",
+      "entry_signals": [
+        "Pullback to 20d SMA",
+        "RSI reset < 65 (not overbought)"
+      ],
+      "exit_signals": [],
+      "daily_vol": 2.98,
+      "rsi": 59.5,
+      "near_52wh": 99.9,
+      "pct_above_sma20": 62.5,
+      "timestamp": "2026-06-17T15:19:28.316395"
+    },
+    {
+      "ticker": "EDELWEISS.NS",
+      "archetype": "DV-BEAR",
+      "price": NaN,
+      "dv_bear_score": 45,
+      "recommendation": "EXIT",
+      "entry_signals": [],
+      "exit_signals": [
+        "RSI > 55 (mean reversion complete)",
+        "Volume spike on up day (profit book)"
+      ],
+      "daily_vol": 2.65,
+      "rsi": 61.4,
+      "drawdown": NaN,
+      "timestamp": "2026-06-18T00:02:16.619331"
+    }
+  ]
+}

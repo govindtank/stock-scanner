@@ -1,0 +1,1026 @@
+[
+  {
+    "ticker": "INFY.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 100,
+    "price": 1187.5999755859375,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 3.9% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +6.3% above box"
+    ]
+  },
+  {
+    "ticker": "CIPLA.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 100,
+    "price": 1387.9000244140625,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 5.1% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +15.3% above box"
+    ]
+  },
+  {
+    "ticker": "BIOCON.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 90,
+    "price": 409.25,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 5.7% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +18.5% above box"
+    ]
+  },
+  {
+    "ticker": "NBCC.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 90,
+    "price": 103.45999908447266,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 5.9% range",
+      "\u2705 9 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +10.2% above box"
+    ]
+  },
+  {
+    "ticker": "PAGEIND.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 90,
+    "price": 38550.0,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 5.7% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Explosive volume: 5.2x on breakout"
+    ]
+  },
+  {
+    "ticker": "UNIONBANK.NS",
+    "best_darvaX_pattern": "HIGH_DRY_FRY",
+    "best_darvaX_score": 85,
+    "price": 165.17999267578125,
+    "pattern_name": "High Dry Fry",
+    "evidence": [
+      "\ud83d\udfe1 Surge phase: +17.0% (moderate surge)",
+      "\u2705 Correction: -11.4% from peak (ideal pullback zone)",
+      "\u2705 Base formation: 16 days \u2014 well-developed base"
+    ]
+  },
+  {
+    "ticker": "JPASSOCIAT.NS",
+    "best_darvaX_pattern": "BABY_CRADLE",
+    "best_darvaX_score": 85,
+    "price": 2.4200000762939453,
+    "pattern_name": "Baby Cradle Consolidation",
+    "evidence": [
+      "\u2705 Very tight range: 0.0% over 15 days",
+      "\u2705 Tiny baby candles (body ratio 0.00)",
+      "\u2705 Volume drying up (0.0x) \u2014 accumulation"
+    ]
+  },
+  {
+    "ticker": "TORNTPHARM.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 85,
+    "price": 4410.39990234375,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 0.2%)",
+      "\u2705 Above 10 EMA (4410.4 > 4401.8) \u2014 buy signal active",
+      "\u2705 10 EMA rising (0.15%) \u2014 trend up"
+    ]
+  },
+  {
+    "ticker": "APOLLOHOSP.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 80,
+    "price": 8358.5,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 5.0% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +6.7% above box"
+    ]
+  },
+  {
+    "ticker": "RBLBANK.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 80,
+    "price": 344.95001220703125,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 5.0% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +8.2% above box"
+    ]
+  },
+  {
+    "ticker": "COFORGE.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 80,
+    "price": 1421.0999755859375,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 4 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +13.8% above box",
+      "\u2705 Explosive volume: 2.5x on breakout"
+    ]
+  },
+  {
+    "ticker": "YESBANK.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 80,
+    "price": 23.0,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 4.5% range",
+      "\u2705 9 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +13.4% above box"
+    ]
+  },
+  {
+    "ticker": "SUZLON.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 80,
+    "price": 54.43000030517578,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 9 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +34.3% above box",
+      "\u2705 Explosive volume: 2.4x on breakout"
+    ]
+  },
+  {
+    "ticker": "NESTLEIND.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 80,
+    "price": 1398.9000244140625,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 5.3% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +21.3% above box"
+    ]
+  },
+  {
+    "ticker": "ABB.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 80,
+    "price": 6958.0,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 8 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +18.2% above box",
+      "\u2705 Explosive volume: 3.8x on breakout"
+    ]
+  },
+  {
+    "ticker": "GRASIM.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 80,
+    "price": 3050.10009765625,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 4.7% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +12.9% above box"
+    ]
+  },
+  {
+    "ticker": "HINDALCO.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 80,
+    "price": 1062.4000244140625,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 5.1% range",
+      "\u2705 9 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +6.5% above box"
+    ]
+  },
+  {
+    "ticker": "ADANIGREEN.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 75,
+    "price": 1490.5,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 2.9%)",
+      "\u2705 Above 10 EMA (1490.5 > 1456.6) \u2014 buy signal active",
+      "\u2705 10 EMA rising (1.72%) \u2014 trend up"
+    ]
+  },
+  {
+    "ticker": "ADANIPORTS.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 75,
+    "price": 1805.0,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 1.3%)",
+      "\u2705 Above 10 EMA (1805.0 > 1802.7) \u2014 buy signal active",
+      "\u2705 10 EMA rising (0.30%) \u2014 trend up"
+    ]
+  },
+  {
+    "ticker": "TRENT.NS",
+    "best_darvaX_pattern": "HIGH_DRY_FRY",
+    "best_darvaX_score": 75,
+    "price": 2724.10009765625,
+    "pattern_name": "High Dry Fry",
+    "evidence": [
+      "\u2705 Surge phase: +34.6% on 1.8x volume",
+      "\ud83d\udfe1 Correction: -9.1% (shallow pullback)",
+      "\u2705 Base formation: 16 days \u2014 well-developed base"
+    ]
+  },
+  {
+    "ticker": "FORTIS.NS",
+    "best_darvaX_pattern": "DOUBLE_BOTTOM",
+    "best_darvaX_score": 75,
+    "price": 989.0999755859375,
+    "pattern_name": "Double Bottom",
+    "evidence": [
+      "\ud83d\udfe1 Good low alignment (diff 3.5%)",
+      "\u2705 Strong neckline breakout: +16.2%",
+      "\u2705 Volume on breakout: 3.1x"
+    ]
+  },
+  {
+    "ticker": "PNB.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 75,
+    "price": 105.70999908447266,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 0.8%)",
+      "\u2705 Above 10 EMA (105.7 > 105.5) \u2014 buy signal active",
+      "\u2705 10 EMA rising (0.36%) \u2014 trend up"
+    ]
+  },
+  {
+    "ticker": "VOLTAS.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 75,
+    "price": 1276.199951171875,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 2.9%)",
+      "\u2705 Above 10 EMA (1276.2 > 1269.4) \u2014 buy signal active",
+      "\u2705 10 EMA rising (0.65%) \u2014 trend up"
+    ]
+  },
+  {
+    "ticker": "CHOLAFIN.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 75,
+    "price": 1456.0,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 4.9% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +6.6% above box"
+    ]
+  },
+  {
+    "ticker": "SONACOMS.NS",
+    "best_darvaX_pattern": "HIGH_DRY_FRY",
+    "best_darvaX_score": 70,
+    "price": 588.25,
+    "pattern_name": "High Dry Fry",
+    "evidence": [
+      "\u2705 Surge phase: +21.4% on 1.6x volume",
+      "\u2705 Correction: -10.5% from peak (ideal pullback zone)",
+      "\u2705 Base formation: 48 days \u2014 well-developed base"
+    ]
+  },
+  {
+    "ticker": "EDELWEISS.NS",
+    "best_darvaX_pattern": "HIGH_DRY_FRY",
+    "best_darvaX_score": 70,
+    "price": 107.62000274658203,
+    "pattern_name": "High Dry Fry",
+    "evidence": [
+      "\u2705 Surge phase: +20.2% on 2.2x volume",
+      "\u2705 Correction: -21.9% from peak (ideal pullback zone)",
+      "\u2705 Base formation: 48 days \u2014 well-developed base"
+    ]
+  },
+  {
+    "ticker": "FEDERALBNK.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 70,
+    "price": 304.6000061035156,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 5.7% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Holding above box: 4/5 days above"
+    ]
+  },
+  {
+    "ticker": "IIFL.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 70,
+    "price": 491.8500061035156,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 7 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +7.8% above box",
+      "\ud83d\udfe1 Volume: 1.7x on breakout"
+    ]
+  },
+  {
+    "ticker": "BEL.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 70,
+    "price": 412.95001220703125,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 1.0%)",
+      "\u2705 Above 10 EMA (413.0 > 412.4) \u2014 buy signal active"
+    ]
+  },
+  {
+    "ticker": "IRFC.NS",
+    "best_darvaX_pattern": "HIGH_DRY_FRY",
+    "best_darvaX_score": 70,
+    "price": 94.69999694824219,
+    "pattern_name": "High Dry Fry",
+    "evidence": [
+      "\ud83d\udfe1 Surge phase: +15.3% (moderate surge)",
+      "\ud83d\udfe1 Correction: -34.0% (deep pullback)",
+      "\u2705 Base formation: 48 days \u2014 well-developed base"
+    ]
+  },
+  {
+    "ticker": "ALKEM.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 70,
+    "price": 5356.5,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 0.8%)",
+      "\u2705 Above 10 EMA (5356.5 > 5340.5) \u2014 buy signal active"
+    ]
+  },
+  {
+    "ticker": "HINDZINC.NS",
+    "best_darvaX_pattern": "HIGH_DRY_FRY",
+    "best_darvaX_score": 70,
+    "price": 556.0,
+    "pattern_name": "High Dry Fry",
+    "evidence": [
+      "\u2705 Surge phase: +21.1% on 2.3x volume",
+      "\ud83d\udfe1 Correction: -32.9% (deep pullback)",
+      "\u2705 Base formation: 52 days \u2014 well-developed base"
+    ]
+  },
+  {
+    "ticker": "NATIONALUM.NS",
+    "best_darvaX_pattern": "HIGH_DRY_FRY",
+    "best_darvaX_score": 70,
+    "price": 378.20001220703125,
+    "pattern_name": "High Dry Fry",
+    "evidence": [
+      "\u2705 Surge phase: +28.6% on 1.4x volume",
+      "\u2705 Correction: -20.0% from peak (ideal pullback zone)",
+      "\u2705 Base formation: 71 days \u2014 well-developed base"
+    ]
+  },
+  {
+    "ticker": "INDUSTOWER.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 70,
+    "price": 426.1499938964844,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +6.1% above box",
+      "\ud83d\udfe1 Volume: 2.0x on breakout"
+    ]
+  },
+  {
+    "ticker": "PIDILITIND.NS",
+    "best_darvaX_pattern": "DOUBLE_BOTTOM",
+    "best_darvaX_score": 65,
+    "price": 1459.800048828125,
+    "pattern_name": "Double Bottom",
+    "evidence": [
+      "\u2705 Near-perfect low alignment (diff 1.6%)",
+      "\u2705 Strong neckline breakout: +4.2%",
+      "\ud83c\udfaf Target \u20b91508 (+8% from neckline)"
+    ]
+  },
+  {
+    "ticker": "MANAPPURAM.NS",
+    "best_darvaX_pattern": "DOUBLE_BOTTOM",
+    "best_darvaX_score": 65,
+    "price": 299.20001220703125,
+    "pattern_name": "Double Bottom",
+    "evidence": [
+      "\u2705 Near-perfect low alignment (diff 0.3%)",
+      "\u2705 Strong neckline breakout: +9.7%",
+      "\ud83c\udfaf Target \u20b9299 (+10% from neckline)"
+    ]
+  },
+  {
+    "ticker": "BAJAJ-AUTO.NS",
+    "best_darvaX_pattern": "DOUBLE_BOTTOM",
+    "best_darvaX_score": 65,
+    "price": 10231.0,
+    "pattern_name": "Double Bottom",
+    "evidence": [
+      "\u2705 Near-perfect low alignment (diff 1.4%)",
+      "\u2705 Strong neckline breakout: +11.7%",
+      "\ud83c\udfaf Target \u20b99814 (+7% from neckline)"
+    ]
+  },
+  {
+    "ticker": "SBIN.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 65,
+    "price": 981.9500122070312,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\ud83d\udfe1 At 50% fib level (deviation 2.5%)",
+      "\u2705 Above 10 EMA (982.0 > 971.2) \u2014 buy signal active",
+      "\u2705 10 EMA rising (0.45%) \u2014 trend up"
+    ]
+  },
+  {
+    "ticker": "TITAN.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 65,
+    "price": 4192.39990234375,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\ud83d\udfe1 At 50% fib level (deviation 2.8%)",
+      "\u2705 Above 10 EMA (4192.4 > 4157.3) \u2014 buy signal active",
+      "\u2705 10 EMA rising (0.79%) \u2014 trend up"
+    ]
+  },
+  {
+    "ticker": "HAL.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 65,
+    "price": 4238.0,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 4.2% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +8.5% above box"
+    ]
+  },
+  {
+    "ticker": "PERSISTENT.NS",
+    "best_darvaX_pattern": "INSIDE_BAR_BREAK",
+    "best_darvaX_score": 65,
+    "price": 5065.0,
+    "pattern_name": "Inside Bar Breakout",
+    "evidence": [
+      "\u2705 Breakout on 2.3x volume \u2014 strong confirmation",
+      "\ud83d\udfe1 Breakout: +1.2% above mother bar",
+      "\u2705 Very tight inside bar (0% of mother) \u2014 coiled"
+    ]
+  },
+  {
+    "ticker": "NTPC.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 65,
+    "price": 362.3999938964844,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 5.1% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +5.7% above box"
+    ]
+  },
+  {
+    "ticker": "HCLTECH.NS",
+    "best_darvaX_pattern": "INSIDE_BAR_BREAK",
+    "best_darvaX_score": 65,
+    "price": 1151.300048828125,
+    "pattern_name": "Inside Bar Breakout",
+    "evidence": [
+      "\u2705 Breakout on 3.5x volume \u2014 strong confirmation",
+      "\ud83d\udfe1 Breakout: +1.2% above mother bar",
+      "\u2705 Very tight inside bar (0% of mother) \u2014 coiled"
+    ]
+  },
+  {
+    "ticker": "SUNPHARMA.NS",
+    "best_darvaX_pattern": "DOUBLE_BOTTOM",
+    "best_darvaX_score": 65,
+    "price": 1788.800048828125,
+    "pattern_name": "Double Bottom",
+    "evidence": [
+      "\u2705 Near-perfect low alignment (diff 0.4%)",
+      "\u2705 Strong neckline breakout: +2.3%",
+      "\ud83c\udfaf Target \u20b91885 (+8% from neckline)"
+    ]
+  },
+  {
+    "ticker": "ATHERENERG.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 60,
+    "price": 1002.25,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 5 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +5.2% above box",
+      "\u2705 Holding above box: 4/5 days above"
+    ]
+  },
+  {
+    "ticker": "NEPHROPLUS.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 60,
+    "price": 665.0499877929688,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 9 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +21.1% above box",
+      "\u2705 Holding above box: 5/5 days above"
+    ]
+  },
+  {
+    "ticker": "GLAND.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 60,
+    "price": 2247.800048828125,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 8 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +30.9% above box",
+      "\u2705 Holding above box: 5/5 days above"
+    ]
+  },
+  {
+    "ticker": "POLYCAB.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 60,
+    "price": 9495.0,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 0.1%)",
+      "\ud83d\udfe1 Below 10 EMA \u2014 wait for buy signal",
+      "\u2705 10 EMA rising (0.29%) \u2014 trend up"
+    ]
+  },
+  {
+    "ticker": "ICICIBANK.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 60,
+    "price": 1250.199951171875,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 0.2%)",
+      "\ud83d\udfe1 Below 10 EMA \u2014 wait for buy signal",
+      "\u2705 10 EMA rising (0.10%) \u2014 trend up"
+    ]
+  },
+  {
+    "ticker": "IDEA.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 60,
+    "price": 14.399999618530273,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 9 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +53.3% above box",
+      "\u2705 Holding above box: 5/5 days above"
+    ]
+  },
+  {
+    "ticker": "POWERGRID.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 60,
+    "price": 290.29998779296875,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 0.9%)",
+      "\u2705 Above 10 EMA (290.3 > 289.7) \u2014 buy signal active"
+    ]
+  },
+  {
+    "ticker": "ANGELONE.NS",
+    "best_darvaX_pattern": "HIGH_DRY_FRY",
+    "best_darvaX_score": 60,
+    "price": 325.70001220703125,
+    "pattern_name": "High Dry Fry",
+    "evidence": [
+      "\u2705 Surge phase: +44.4% on 1.9x volume",
+      "\ud83d\udfe1 Correction: -9.3% (shallow pullback)",
+      "\u2705 Base formation: 19 days \u2014 well-developed base"
+    ]
+  },
+  {
+    "ticker": "BANKBARODA.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 60,
+    "price": 259.25,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 0.6%)",
+      "\ud83d\udfe1 Below 10 EMA \u2014 wait for buy signal",
+      "\u2705 10 EMA rising (0.20%) \u2014 trend up"
+    ]
+  },
+  {
+    "ticker": "CANBK.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 60,
+    "price": 131.91000366210938,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 2.0%)",
+      "\ud83d\udfe1 Below 10 EMA \u2014 wait for buy signal",
+      "\u2705 10 EMA rising (0.62%) \u2014 trend up"
+    ]
+  },
+  {
+    "ticker": "INDUSINDBK.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 60,
+    "price": 895.0499877929688,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 8 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +8.9% above box",
+      "\u2705 Holding above box: 5/5 days above"
+    ]
+  },
+  {
+    "ticker": "BANDHANBNK.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 60,
+    "price": 202.91000366210938,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 8 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +17.1% above box",
+      "\u2705 Holding above box: 5/5 days above"
+    ]
+  },
+  {
+    "ticker": "SIEMENS.NS",
+    "best_darvaX_pattern": "HIGH_DRY_FRY",
+    "best_darvaX_score": 60,
+    "price": 3624.0,
+    "pattern_name": "High Dry Fry",
+    "evidence": [
+      "\u2705 Surge phase: +31.0% on 1.4x volume",
+      "\ud83d\udfe1 Correction: -8.1% (shallow pullback)",
+      "\u2705 Base formation: 19 days \u2014 well-developed base"
+    ]
+  },
+  {
+    "ticker": "AXISBANK.NS",
+    "best_darvaX_pattern": "HIGH_DRY_FRY",
+    "best_darvaX_score": 60,
+    "price": 1268.0999755859375,
+    "pattern_name": "High Dry Fry",
+    "evidence": [
+      "\ud83d\udfe1 Surge phase: +15.3% (moderate surge)",
+      "\ud83d\udfe1 Correction: -8.7% (shallow pullback)",
+      "\u2705 Base formation: 16 days \u2014 well-developed base"
+    ]
+  },
+  {
+    "ticker": "MARICO.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 60,
+    "price": 809.0,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +9.8% above box",
+      "\u2705 Holding above box: 5/5 days above"
+    ]
+  },
+  {
+    "ticker": "JSWSTEEL.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 60,
+    "price": 1260.699951171875,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 3.8% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\u2705 Holding above box: 3/5 days above"
+    ]
+  },
+  {
+    "ticker": "SHRIRAMFIN.NS",
+    "best_darvaX_pattern": "HIGH_DRY_FRY",
+    "best_darvaX_score": 60,
+    "price": 896.6500244140625,
+    "pattern_name": "High Dry Fry",
+    "evidence": [
+      "\ud83d\udfe1 Surge phase: +19.1% (moderate surge)",
+      "\u2705 Correction: -14.5% from peak (ideal pullback zone)",
+      "\u2705 Base formation: 48 days \u2014 well-developed base"
+    ]
+  },
+  {
+    "ticker": "DELTACORP.NS",
+    "best_darvaX_pattern": "HIGH_DRY_FRY",
+    "best_darvaX_score": 60,
+    "price": 65.43000030517578,
+    "pattern_name": "High Dry Fry",
+    "evidence": [
+      "\u2705 Surge phase: +31.6% on 3.0x volume",
+      "\u2705 Correction: -21.8% from peak (ideal pullback zone)",
+      "\ud83d\udfe1 Base formation: 5 days \u2014 early base"
+    ]
+  },
+  {
+    "ticker": "DIXON.NS",
+    "best_darvaX_pattern": "DOUBLE_BOTTOM",
+    "best_darvaX_score": 55,
+    "price": 11392.0,
+    "pattern_name": "Double Bottom",
+    "evidence": [
+      "\ud83d\udfe1 Good low alignment (diff 2.3%)",
+      "\u2705 Strong neckline breakout: +4.6%",
+      "\ud83c\udfaf Target \u20b911721 (+8% from neckline)"
+    ]
+  },
+  {
+    "ticker": "RELIANCE.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 55,
+    "price": 1263.300048828125,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 5.2% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test"
+    ]
+  },
+  {
+    "ticker": "BHARTIARTL.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 55,
+    "price": 1813.300048828125,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 5.3% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test"
+    ]
+  },
+  {
+    "ticker": "LT.NS",
+    "best_darvaX_pattern": "DOUBLE_BOTTOM",
+    "best_darvaX_score": 55,
+    "price": 3875.5,
+    "pattern_name": "Double Bottom",
+    "evidence": [
+      "\ud83d\udfe1 Good low alignment (diff 2.2%)",
+      "\u2705 Strong neckline breakout: +6.3%",
+      "\ud83c\udfaf Target \u20b93931 (+8% from neckline)"
+    ]
+  },
+  {
+    "ticker": "BAJFINANCE.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 55,
+    "price": 871.0999755859375,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 2.6%)",
+      "\ud83d\udfe1 Below 10 EMA \u2014 wait for buy signal"
+    ]
+  },
+  {
+    "ticker": "NHPC.NS",
+    "best_darvaX_pattern": "ZIGZAG_FIB",
+    "best_darvaX_score": 55,
+    "price": 73.51000213623047,
+    "pattern_name": "ZigZag Fibonacci Entry",
+    "evidence": [
+      "\u2705 At 61.8% golden ratio (deviation 2.8%)",
+      "\ud83d\udfe1 Below 10 EMA \u2014 wait for buy signal"
+    ]
+  },
+  {
+    "ticker": "ZENSARTECH.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 55,
+    "price": 474.70001220703125,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 9 touches on box top \u2014 strong resistance test",
+      "\u2705 Explosive volume: 7.0x on breakout"
+    ]
+  },
+  {
+    "ticker": "TECHM.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 55,
+    "price": 1503.4000244140625,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 9 touches on box top \u2014 strong resistance test",
+      "\u2705 Strong breakout: +5.3% above box",
+      "\ud83d\udfe1 Volume: 1.8x on breakout"
+    ]
+  },
+  {
+    "ticker": "AUBANK.NS",
+    "best_darvaX_pattern": "DOUBLE_BOTTOM",
+    "best_darvaX_score": 55,
+    "price": 958.9000244140625,
+    "pattern_name": "Double Bottom",
+    "evidence": [
+      "\ud83d\udfe1 Good low alignment (diff 4.3%)",
+      "\u2705 Strong neckline breakout: +2.9%",
+      "\ud83c\udfaf Target \u20b91032 (+11% from neckline)"
+    ]
+  },
+  {
+    "ticker": "ITC.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 55,
+    "price": 279.45001220703125,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 3.5% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test",
+      "\ud83d\udfe1 Volume: 1.7x on breakout"
+    ]
+  },
+  {
+    "ticker": "DABUR.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 55,
+    "price": 419.75,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 8 touches on box top \u2014 strong resistance test",
+      "\u2705 Explosive volume: 4.9x on breakout"
+    ]
+  },
+  {
+    "ticker": "BHEL.NS",
+    "best_darvaX_pattern": "DOUBLE_BOTTOM",
+    "best_darvaX_score": 55,
+    "price": 386.29998779296875,
+    "pattern_name": "Double Bottom",
+    "evidence": [
+      "\ud83d\udfe1 Good low alignment (diff 3.9%)",
+      "\u2705 Strong neckline breakout: +44.8%",
+      "\ud83c\udfaf Target \u20b9294 (+10% from neckline)"
+    ]
+  },
+  {
+    "ticker": "DIVISLAB.NS",
+    "best_darvaX_pattern": "DOUBLE_BOTTOM",
+    "best_darvaX_score": 55,
+    "price": 6521.0,
+    "pattern_name": "Double Bottom",
+    "evidence": [
+      "\ud83d\udfe1 Good low alignment (diff 4.7%)",
+      "\u2705 Strong neckline breakout: +5.5%",
+      "\ud83c\udfaf Target \u20b96718 (+9% from neckline)"
+    ]
+  },
+  {
+    "ticker": "DRREDDY.NS",
+    "best_darvaX_pattern": "DOUBLE_BOTTOM",
+    "best_darvaX_score": 55,
+    "price": 1275.5999755859375,
+    "pattern_name": "Double Bottom",
+    "evidence": [
+      "\ud83d\udfe1 Good low alignment (diff 3.5%)",
+      "\u2705 Strong neckline breakout: +2.6%",
+      "\ud83c\udfaf Target \u20b91318 (+6% from neckline)"
+    ]
+  },
+  {
+    "ticker": "LUPIN.NS",
+    "best_darvaX_pattern": "DARVAX_JALWA",
+    "best_darvaX_score": 55,
+    "price": 2254.5,
+    "pattern_name": "DarvaX Jalwa",
+    "evidence": [
+      "\u2705 Tight Darvas box: 5.4% range",
+      "\u2705 10 touches on box top \u2014 strong resistance test"
+    ]
+  },
+  {
+    "ticker": "M&M.NS",
+    "best_darvaX_pattern": "INSIDE_BAR_BREAK",
+    "best_darvaX_score": 50,
+    "price": 2966.0,
+    "pattern_name": "Inside Bar Breakout",
+    "evidence": [
+      "\u2705 Breakout on 3.9x volume \u2014 strong confirmation",
+      "\u2705 Very tight inside bar (0% of mother) \u2014 coiled"
+    ]
+  },
+  {
+    "ticker": "TCS.NS",
+    "best_darvaX_pattern": "INSIDE_BAR_BREAK",
+    "best_darvaX_score": 50,
+    "price": 2151.39990234375,
+    "pattern_name": "Inside Bar Breakout",
+    "evidence": [
+      "\u2705 Breakout on 2.8x volume \u2014 strong confirmation",
+      "\u2705 Very tight inside bar (0% of mother) \u2014 coiled"
+    ]
+  },
+  {
+    "ticker": "MARUTI.NS",
+    "best_darvaX_pattern": "INSIDE_BAR_BREAK",
+    "best_darvaX_score": 50,
+    "price": 12912.0,
+    "pattern_name": "Inside Bar Breakout",
+    "evidence": [
+      "\u2705 Breakout on 2.7x volume \u2014 strong confirmation",
+      "\u2705 Very tight inside bar (0% of mother) \u2014 coiled"
+    ]
+  },
+  {
+    "ticker": "COALINDIA.NS",
+    "best_darvaX_pattern": "INSIDE_BAR_BREAK",
+    "best_darvaX_score": 50,
+    "price": 464.8999938964844,
+    "pattern_name": "Inside Bar Breakout",
+    "evidence": [
+      "\u2705 Breakout on 4.5x volume \u2014 strong confirmation",
+      "\u2705 Very tight inside bar (0% of mother) \u2014 coiled"
+    ]
+  },
+  {
+    "ticker": "WIPRO.NS",
+    "best_darvaX_pattern": "INSIDE_BAR_BREAK",
+    "best_darvaX_score": 50,
+    "price": 181.75999450683594,
+    "pattern_name": "Inside Bar Breakout",
+    "evidence": [
+      "\u2705 Breakout on 2.3x volume \u2014 strong confirmation",
+      "\u2705 Very tight inside bar (0% of mother) \u2014 coiled"
+    ]
+  },
+  {
+    "ticker": "KOTAKBANK.NS",
+    "best_darvaX_pattern": "INSIDE_BAR_BREAK",
+    "best_darvaX_score": 50,
+    "price": 377.1000061035156,
+    "pattern_name": "Inside Bar Breakout",
+    "evidence": [
+      "\u2705 Breakout on 2.8x volume \u2014 strong confirmation",
+      "\u2705 Very tight inside bar (0% of mother) \u2014 coiled"
+    ]
+  },
+  {
+    "ticker": "EICHERMOT.NS",
+    "best_darvaX_pattern": "INSIDE_BAR_BREAK",
+    "best_darvaX_score": 50,
+    "price": 7050.0,
+    "pattern_name": "Inside Bar Breakout",
+    "evidence": [
+      "\u2705 Breakout on 2.9x volume \u2014 strong confirmation",
+      "\u2705 Very tight inside bar (0% of mother) \u2014 coiled"
+    ]
+  },
+  {
+    "ticker": "HEROMOTOCO.NS",
+    "best_darvaX_pattern": "INSIDE_BAR_BREAK",
+    "best_darvaX_score": 50,
+    "price": 4775.5,
+    "pattern_name": "Inside Bar Breakout",
+    "evidence": [
+      "\u2705 Breakout on 3.1x volume \u2014 strong confirmation",
+      "\u2705 Very tight inside bar (0% of mother) \u2014 coiled"
+    ]
+  },
+  {
+    "ticker": "TATACONSUM.NS",
+    "best_darvaX_pattern": "INSIDE_BAR_BREAK",
+    "best_darvaX_score": 50,
+    "price": 1107.0,
+    "pattern_name": "Inside Bar Breakout",
+    "evidence": [
+      "\u2705 Breakout on 4.5x volume \u2014 strong confirmation",
+      "\u2705 Very tight inside bar (0% of mother) \u2014 coiled"
+    ]
+  },
+  {
+    "ticker": "ULTRACEMCO.NS",
+    "best_darvaX_pattern": "INSIDE_BAR_BREAK",
+    "best_darvaX_score": 50,
+    "price": 10795.0,
+    "pattern_name": "Inside Bar Breakout",
+    "evidence": [
+      "\u2705 Breakout on 4.6x volume \u2014 strong confirmation",
+      "\u2705 Very tight inside bar (0% of mother) \u2014 coiled"
+    ]
+  }
+]

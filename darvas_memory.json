@@ -1,0 +1,223 @@
+{
+  "strategy_stats": {
+    "darvas_breakout": {
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "total_pnl": 0.0,
+      "avg_win": 0.0,
+      "avg_loss": 0.0,
+      "win_rate": 0.0,
+      "consecutive_wins": 0,
+      "consecutive_losses": 0,
+      "max_drawdown": 0.0,
+      "allocation": 0.4
+    },
+    "mean_reversion": {
+      "trades": 6,
+      "wins": 3,
+      "losses": 3,
+      "total_pnl": 1028.36,
+      "avg_win": 548.2,
+      "avg_loss": 205.41,
+      "win_rate": 50.0,
+      "consecutive_wins": 3,
+      "consecutive_losses": 0,
+      "max_drawdown": -2.46,
+      "allocation": 0.2
+    },
+    "momentum": {
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "total_pnl": 0.0,
+      "avg_win": 0.0,
+      "avg_loss": 0.0,
+      "win_rate": 0.0,
+      "consecutive_wins": 0,
+      "consecutive_losses": 0,
+      "max_drawdown": 0.0,
+      "allocation": 0.25
+    },
+    "gap_trading": {
+      "trades": 0,
+      "wins": 0,
+      "losses": 0,
+      "total_pnl": 0.0,
+      "avg_win": 0.0,
+      "avg_loss": 0.0,
+      "win_rate": 0.0,
+      "consecutive_wins": 0,
+      "consecutive_losses": 0,
+      "max_drawdown": 0.0,
+      "allocation": 0.15
+    }
+  },
+  "market_regime_history": [
+    {
+      "date": "2026-06-03",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": -0.33,
+      "vix": 16.28
+    },
+    {
+      "date": "2026-06-03",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": -0.33,
+      "vix": 16.28
+    },
+    {
+      "date": "2026-06-03",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": -0.33,
+      "vix": 16.28
+    },
+    {
+      "date": "2026-06-03",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": -0.33,
+      "vix": 16.28
+    },
+    {
+      "date": "2026-06-04",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": 0.05,
+      "vix": 15.89
+    },
+    {
+      "date": "2026-06-05",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": 0.21,
+      "vix": 15.74
+    },
+    {
+      "date": "2026-06-05",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": 0.24,
+      "vix": 15.75
+    },
+    {
+      "date": "2026-06-05",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": -0.21,
+      "vix": 15.79
+    },
+    {
+      "date": "2026-06-09",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": 0.33,
+      "vix": 15.97
+    },
+    {
+      "date": "2026-06-09",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": 0.34,
+      "vix": 15.97
+    },
+    {
+      "date": "2026-06-10",
+      "regime": "STRONG_DOWNTREND",
+      "nifty_change": -1.04,
+      "vix": 17.03
+    },
+    {
+      "date": "2026-06-10",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": 0.4,
+      "vix": 15.63
+    },
+    {
+      "date": "2026-06-11",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": -0.23,
+      "vix": 15.61
+    },
+    {
+      "date": "2026-06-12",
+      "regime": "MODERATE_UPTREND",
+      "nifty_change": 1.99,
+      "vix": 14.72
+    },
+    {
+      "date": "2026-06-15",
+      "regime": "MODERATE_UPTREND",
+      "nifty_change": 1.27,
+      "vix": 14.1
+    },
+    {
+      "date": "2026-06-15",
+      "regime": "MODERATE_UPTREND",
+      "nifty_change": 1.2,
+      "vix": 14.12
+    },
+    {
+      "date": "2026-06-15",
+      "regime": "MODERATE_UPTREND",
+      "nifty_change": 0.98,
+      "vix": 14.35
+    },
+    {
+      "date": "2026-06-16",
+      "regime": "MODERATE_UPTREND",
+      "nifty_change": 1.55,
+      "vix": 13.36
+    },
+    {
+      "date": "2026-06-16",
+      "regime": "MODERATE_UPTREND",
+      "nifty_change": 1.55,
+      "vix": 13.36
+    },
+    {
+      "date": "2026-06-17",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": 0.41,
+      "vix": 13.2
+    },
+    {
+      "date": "2026-06-17",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": 0.4,
+      "vix": 13.19
+    },
+    {
+      "date": "2026-06-17",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": 0.4,
+      "vix": 13.19
+    },
+    {
+      "date": "2026-06-18",
+      "regime": "SIDEWAYS_LOW_VOL",
+      "nifty_change": 0.34,
+      "vix": 12.67
+    },
+    {
+      "date": "2026-06-19",
+      "regime": "MODERATE_DOWNTREND",
+      "nifty_change": -0.88,
+      "vix": 13.36
+    }
+  ],
+  "lessons": [
+    {
+      "date": "2026-06-17",
+      "type": "win",
+      "symbol": "ITC.NS",
+      "strategy": "mean_reversion",
+      "lesson": "Big win on ITC.NS (mean_reversion): +6.0%. Exit: time_exit. Key: Mean reversion: RSI 22.9 oversold, 10d mom: -7.5%. Trend: NO_CLEAR_TREND",
+      "pnl_pct": 6.02
+    },
+    {
+      "date": "2026-06-17",
+      "type": "win",
+      "symbol": "HINDUNILVR.NS",
+      "strategy": "mean_reversion",
+      "lesson": "Big win on HINDUNILVR.NS (mean_reversion): +6.2%. Exit: time_exit. Key: Mean reversion: RSI 23.6 oversold, 10d mom: -5.4%. Trend: NO_CLEAR_TREND",
+      "pnl_pct": 6.16
+    }
+  ],
+  "current_regime": "MODERATE_DOWNTREND",
+  "vix_context": "",
+  "last_optimization": ""
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Pro Trader \u2014 Govind",
+  "created_date": "2026-06-09",
+  "capital": 100000.0,
+  "version": "1.0.0",
+  "mindset": {
+    "current_state": "DISCIPLINED",
+    "consecutive_wins": 0,
+    "consecutive_losses": 0,
+    "daily_trades_taken": 0,
+    "daily_losses": 0,
+    "last_state_change": "",
+    "fomo_alerts": 0,
+    "rules_broken": [],
+    "journal_entries": []
+  },
+  "active_archetypes": [
+    "BREAKOUT_MOMENTUM",
+    "MEAN_REVERSION_SNAPBACK",
+    "GAP_AND_GO"
+  ],
+  "pattern_history": [],
+  "weekly_reviews": []
+}
