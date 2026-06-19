@@ -247,7 +247,7 @@ class TechnicalIndicators:
         if len(prices) < period + 1:
             return None
         
-        momentum = prices.pct_change(period=period) * 100
+        momentum = prices.pct_change(periods=period) * 100
         return float(momentum.iloc[-1])
     
     def calculate_all(self, df: pd.DataFrame) -> Dict[str, object]:

@@ -1,0 +1,131 @@
+📊 **DARVAS PRO TRADER — 2026-06-10**
+───────────────────────────────────
+
+🧘 MINDSET: 🧘 DISCIPLINED
+   Risk Multiplier: 100%
+   Consecutive Wins: 0 | Losses: 0
+   Daily Trades: 0 | Daily Losses: 0
+
+🎯 TRIAD PATTERN SCAN: 71 matches from 103 stocks
+   🚀 Darvas Breakout Runner: ATHERENERG(90), PIDILITIND(90), ICICIBANK(70), AXISBANK(70), IIFL(65)
+   🔄 Directional Volatility — Bear Snapback: RVNL(106), CENTRUM(93), BRITANNIA(77), WIPRO(73), TCS(52)
+   🏃‍♂️ Directional Volatility — Bull Runner: ADANIGREEN(75), IDEA(75), ANGELONE(75), BANDHANBNK(75), NEPHROPLUS(74)
+   🔄 Oversold Snapback: ITC(90), ELECTCAST(75), HAL(75), DABUR(75), DRREDDY(75)
+
+📡 **LIVE PATTERN SIGNALS:**
+   🔄 DIRECTIONAL_VOLATILITY_BEAR: 🟢 ACTIVE (9 matches)
+   🚀 BREAKOUT_MOMENTUM: 🟢 ACTIVE (11 matches)
+   🔄 MEAN_REVERSION_SNAPBACK: 🟢 ACTIVE (25 matches)
+   🏃‍♂️ DIRECTIONAL_VOLATILITY_BULL: 🟢 ACTIVE (26 matches)
+
+🏃‍♂️ **DIRECTIONAL VOLATILITY SCAN**
+   🏃‍♂️ DV-Bull: 10 | 🔄 DV-Bear: 10 | ⚡ DV-Accel: 9
+   🏃‍♂️ Top DV-Bull: ATHERENERG(S:75), ADANIGREEN(S:75), IDEA(S:75), ANGELONE(S:75), BANDHANBNK(S:75)
+
+📡 **DV ENTRY/EXIT ALERTS:**
+   🟢 ADANIGREEN.NS DV-BULL: ENTRY @ ₹1483.0 (Pullback to 20d SMA, RSI reset < 65 (not overbought))
+   🟢 IDEA.NS DV-BULL: ENTRY @ ₹13.880000114440918 (Pullback to 20d SMA, RSI reset < 65 (not overbought))
+
+🍟 **DARVAX PATTERN SCAN**
+   Total DarvaX matches: 81
+   🔥 CIPLA: DarvaX Jalwa (Score: 100)
+      └ ✅ Tight Darvas box: 5.1% range
+   🔥 APOLLOHOSP: DarvaX Jalwa (Score: 90)
+      └ ✅ Tight Darvas box: 5.0% range
+   🔥 BIOCON: DarvaX Jalwa (Score: 90)
+      └ ✅ Tight Darvas box: 5.7% range
+   🔥 NBCC: DarvaX Jalwa (Score: 90)
+      └ ✅ Tight Darvas box: 5.9% range
+   🔥 BANKBARODA: DarvaX Jalwa (Score: 90)
+      └ ✅ Tight Darvas box: 5.3% range
+   📊 Distribution: Darvax Jalwa: 34 | Zigzag Fib: 18 | High Dry Fry: 13 | Inside Bar Break: 12 | Double Bottom: 3 | Baby Cradle: 1
+
+🚦 **EXECUTION GATES**: 8 signals → 8 passed (0 filtered)
+
+🏛️ **DARVAS PAPER TRADER** | 2026-06-10
+═══════════════════════════════════
+
+📊 **MARKET OVERVIEW**
+📈 NIFTY: 23,215 (+0.40%)
+🏦 Bank Nifty: 55,100 (+1.92%)
+⚡ VIX: 15.63 — 🟢 Low Vol
+
+💰 **PORTFOLIO**
+• Cash: ₹43,656
+• Total Value: ₹100,935
+• P&L: ₹+935 (+0.93%)
+• Today: ₹-263
+• Peak: ₹100,935 | DD: 0.0%
+• Trades: 3 | W: 0 L: 3
+
+📋 **OPEN POSITIONS (5)**
+🟢 BRITANNIA x3 @ ₹5,013 → ₹5,171 (+3.1%) SL:₹4,811
+🟢 ITC x47 @ ₹274 → ₹284 (+3.4%) SL:₹263
+🟢 HINDUNILVR x5 @ ₹2,070 → ₹2,170 (+4.8%) SL:₹1,986
+🟢 SUNPHARMA x4 @ ₹1,764 → ₹1,786 (+1.2%) SL:₹1,693
+🟢 HDFCLIFE x19 @ ₹544 → ₹550 (+1.0%) SL:₹522
+
+⚡ **TODAY'S ACTIVITY**
+
+⏰ Running analysis for 2026-06-10
+
+📡 Fetching market data...
+
+🔍 Analyzing 51 NSE stocks...
+
+✓ Analyzed 51 stocks
+
+❌ **CLOSED**: ONGC
+   Entry: ₹258.24 → Exit: ₹251.90
+   P&L: ₹-263 (-2.5%)
+   Reason: Trend Reversal
+   Strategy: Mean Reversion
+
+💡 8 potential setups found
+
+📈 **Mean Reversion**
+• HDFCLIFE (HDFCLIFE.NS) @ ₹544.05
+• Qty: 19 | Investment: ₹10,337
+• SL: ₹522.07 | T1: ₹571.53 | T2: ₹588.02
+• RS: 9.1 | ADX: 7.8
+• Mean reversion: RSI 9.1 oversold, 10d mom: -9.8%. Trend: NO_CLEAR_TREND
+
+✅ 1 new positions opened
+
+🎯 **TOP TRADE SETUPS**
+1. 🟡 **HDFCLIFE** (Mean Reversion)
+   Entry: ₹544.05–549.55 | SL: ₹522
+   T1: ₹572 | T2: ₹588
+   Confidence: 66% | RSI: 9.1 | ADX: 7.8
+2. 🟡 **ONGC** (Mean Reversion)
+   Entry: ₹249.38–251.90 | SL: ₹239
+   T1: ₹262 | T2: ₹270
+   Confidence: 64% | RSI: 10.7 | ADX: 19.5
+3. 🟡 **RELIANCE** (Mean Reversion)
+   Entry: ₹1,246.21–1,258.80 | SL: ₹1,196
+   T1: ₹1,309 | T2: ₹1,347
+   Confidence: 53% | RSI: 17.7 | ADX: 14.5
+4. 🟡 **NTPC** (Mean Reversion)
+   Entry: ₹348.13–351.65 | SL: ₹334
+   T1: ₹366 | T2: ₹376
+   Confidence: 53% | RSI: 18.2 | ADX: 13.2
+5. 🟡 **BHARTIARTL** (Mean Reversion)
+   Entry: ₹1,757.45–1,775.20 | SL: ₹1,686
+   T1: ₹1,846 | T2: ₹1,899
+   Confidence: 50% | RSI: 20.2 | ADX: 13.1
+
+📊 **STRATEGY PERFORMANCE**
+🔴 Mean Reversion: 3T | 0% WR | ₹-616 | Alloc: 20%
+
+🧠 **LEARNING & MARKET CONTEXT**
+• Regime: SIDEWAYS_LOW_VOL
+• Last 10 days: 0 trending, 9 sideways
+• Best Strategy: Darvas Breakout
+
+───────────────────────────────────
+🤖 _Darvas Paper Trader v2.0 | Paper Trading Only_
+⚠️ _Not Financial Advice — Backtest Before Real Use_
+
+───────────────────────────────────
+🎯 _Pro Trader + Darvas Engine | Paper Trading_
+⚠️ _Not Financial Advice_

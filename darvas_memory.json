@@ -197,6 +197,12 @@
       "regime": "MODERATE_DOWNTREND",
       "nifty_change": -0.88,
       "vix": 13.36
+    },
+    {
+      "date": "2026-06-19",
+      "regime": "MODERATE_DOWNTREND",
+      "nifty_change": -0.98,
+      "vix": 13.54
     }
   ],
   "lessons": [

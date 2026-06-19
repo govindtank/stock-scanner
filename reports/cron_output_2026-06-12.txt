@@ -1,0 +1,101 @@
+📊 **DARVAS PRO TRADER — 2026-06-12**
+───────────────────────────────────
+
+🧘 MINDSET: 🧘 DISCIPLINED
+   Risk Multiplier: 100%
+   Consecutive Wins: 0 | Losses: 0
+   Daily Trades: 0 | Daily Losses: 0
+
+🎯 TRIAD PATTERN SCAN: 72 matches from 103 stocks
+   🚀 Darvas Breakout Runner: RBLBANK(100), BANKBARODA(90), PIDILITIND(80), FORTIS(80), KOTAKBANK(70)
+   🔄 Directional Volatility — Bear Snapback: RVNL(106), CENTRUM(98), WIPRO(73), TCS(67), IRFC(67)
+   🏃‍♂️ Directional Volatility — Bull Runner: ATHERENERG(85), ADANIGREEN(75), IDEA(75), ANGELONE(75), BANDHANBNK(75)
+   ⚡ Volume Breakout Continuation: AUBANK(90), MOTILALOFS(80), LT(60), CHOLAFIN(55), SUZLON(50)
+   🔄 Oversold Snapback: HINDZINC(100), MUTHOOTFIN(100), ELECTCAST(75), IEX(75), DABUR(75)
+
+📡 **LIVE PATTERN SIGNALS:**
+   🔄 DIRECTIONAL_VOLATILITY_BEAR: 🟢 ACTIVE (12 matches)
+   🚀 BREAKOUT_MOMENTUM: 🟢 ACTIVE (15 matches)
+   🔄 MEAN_REVERSION_SNAPBACK: 🟢 ACTIVE (18 matches)
+   ⚡ GAP_AND_GO: 🟢 ACTIVE (6 matches)
+   🏃‍♂️ DIRECTIONAL_VOLATILITY_BULL: 🟢 ACTIVE (21 matches)
+
+🏃‍♂️ **DIRECTIONAL VOLATILITY SCAN**
+   🏃‍♂️ DV-Bull: 10 | 🔄 DV-Bear: 10 | ⚡ DV-Accel: 10
+   🏃‍♂️ Top DV-Bull: ATHERENERG(S:85), RBLBANK(S:75), ADANIGREEN(S:75), IDEA(S:75), ANGELONE(S:75)
+
+📡 **DV ENTRY/EXIT ALERTS:**
+   🟢 ADANIGREEN.NS DV-BULL: ENTRY @ ₹1485.699951171875 (Pullback to 20d SMA, RSI reset < 65 (not overbought))
+
+🍟 **DARVAX PATTERN SCAN**
+   Total DarvaX matches: 66
+   🔥 CIPLA: DarvaX Jalwa (Score: 100)
+      └ ✅ Tight Darvas box: 5.1% range
+   🔥 APOLLOHOSP: DarvaX Jalwa (Score: 90)
+      └ ✅ Tight Darvas box: 5.0% range
+   🔥 RBLBANK: DarvaX Jalwa (Score: 90)
+      └ ✅ Tight Darvas box: 5.0% range
+   🔥 BIOCON: DarvaX Jalwa (Score: 90)
+      └ ✅ Tight Darvas box: 5.7% range
+   🔥 NBCC: DarvaX Jalwa (Score: 90)
+      └ ✅ Tight Darvas box: 5.9% range
+   📊 Distribution: Darvax Jalwa: 31 | Zigzag Fib: 14 | High Dry Fry: 14 | Double Bottom: 6 | Baby Cradle: 1
+
+🚦 **EXECUTION GATES**: 6 signals → 4 passed (2 filtered)
+
+🏛️ **DARVAS PAPER TRADER** | 2026-06-12
+═══════════════════════════════════
+
+📊 **MARKET OVERVIEW**
+📈 NIFTY: 23,623 (+1.99%)
+🏦 Bank Nifty: 56,815 (+2.97%)
+⚡ VIX: 14.72 — 🟢 Low Vol
+
+💰 **PORTFOLIO**
+• Cash: ₹43,656
+• Total Value: ₹100,722
+• P&L: ₹+722 (+0.72%)
+• Today: ₹+0
+• Peak: ₹100,722 | DD: 0.0%
+• Trades: 3 | W: 0 L: 3
+
+📋 **OPEN POSITIONS (5)**
+🟢 BRITANNIA x3 @ ₹5,013 → ₹5,013 (+0.0%) SL:₹4,811
+🟢 ITC x47 @ ₹274 → ₹285 (+4.0%) SL:₹263
+🟢 HINDUNILVR x5 @ ₹2,070 → ₹2,169 (+4.8%) SL:₹1,986
+🟢 SUNPHARMA x4 @ ₹1,764 → ₹1,808 (+2.5%) SL:₹1,693
+🟢 HDFCLIFE x19 @ ₹544 → ₹555 (+2.1%) SL:₹522
+
+🎯 **TOP TRADE SETUPS**
+1. 🟡 **NTPC** (Mean Reversion)
+   Entry: ₹350.36–353.90 | SL: ₹336
+   T1: ₹368 | T2: ₹379
+   Confidence: 51% | RSI: 19.4 | ADX: 13.6
+2. 🟡 **TATACONSUM** (Mean Reversion)
+   Entry: ₹1,089.69–1,100.70 | SL: ₹1,046
+   T1: ₹1,145 | T2: ₹1,178
+   Confidence: 46% | RSI: 22.8 | ADX: 12.4
+3. 🟡 **WIPRO** (Mean Reversion)
+   Entry: ₹178.34–180.14 | SL: ₹171
+   T1: ₹187 | T2: ₹193
+   Confidence: 46% | RSI: 22.9 | ADX: 15.0
+4. 🟡 **UPL** (Mean Reversion)
+   Entry: ₹604.00–610.10 | SL: ₹580
+   T1: ₹634 | T2: ₹653
+   Confidence: 37% | RSI: 28.7 | ADX: 4.9
+
+📊 **STRATEGY PERFORMANCE**
+🔴 Mean Reversion: 3T | 0% WR | ₹-616 | Alloc: 20%
+
+🧠 **LEARNING & MARKET CONTEXT**
+• Regime: MODERATE_UPTREND
+• Last 10 days: 0 trending, 8 sideways
+• Best Strategy: Darvas Breakout
+
+───────────────────────────────────
+🤖 _Darvas Paper Trader v2.0 | Paper Trading Only_
+⚠️ _Not Financial Advice — Backtest Before Real Use_
+
+───────────────────────────────────
+🎯 _Pro Trader + Darvas Engine | Paper Trading_
+⚠️ _Not Financial Advice_
